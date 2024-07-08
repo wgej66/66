@@ -29,7 +29,26 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
-    }, {
+    },
+    {
+      "key": "drpy_js_荐片",
+      "name": "荐片|优质",
+      "type": 3,
+      "api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
+    },
+    {
+      "key": "csp_LiteApple",
+      "name": "苹果┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_LiteApple",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+ {
       "key": "rarbt",
       "name": "💖分享rarbt",
       "type": 3,
