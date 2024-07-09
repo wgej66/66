@@ -2,7 +2,7 @@
 "sites":[
 {
             "key": "js豆瓣1",
-            "name": "🌈健康教育与培训中心",
+            "name": "🌈健教影视中心",
             "type": 3,
             "api": "./lib/drpy2.min.js",
             "ext": "./lib/douban.js",
@@ -11,7 +11,7 @@
             "filterable": 0
         },
 	{"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-       {"key":"畅梦","name":"💯健教专享","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+       {"key":"畅梦","name":"💯专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_555","name":"健教速播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
     {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
@@ -50,7 +50,7 @@
     },
  {
       "key": "rarbt",
-      "name": "💖分享rarbt",
+      "name": "💖分享┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
 			"key": "csp_Wexliyuan",
-			"name": "🎪看呗┃戏曲",
+			"name": "🎪健教┃戏曲",
 			"type": 3,
 			"api": "csp_Wexliyuan",
 			"searchable": 1,
@@ -93,7 +93,7 @@
       }
     },{
       "key": "狐狸",
-      "name": "狐狸",
+      "name": "狐狸┃影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -174,7 +174,7 @@
             "ext": "./lib/mr.js"
         },{
       "key": "csp_威士",
-      "name": "🎉威士影视",
+      "name": "🎉威士┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -184,7 +184,7 @@
     },
 	{
       "key": "极速资源lz",
-      "name": "急速",
+      "name": "急速┃影视",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/?ac=list",
       "searchable": 1,
