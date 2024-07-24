@@ -490,7 +490,7 @@
             "key": "雨哥影视",
             "name": "🍟雨哥影视(聚)",
             "type": 1,
-            "api": "http://cj.baozi66.top:66/api.php/provide/vod/",
+            "api": "https://360zy.com/api.php/provide/vod",
             "searchable": 0,
             "quickSearch": 0
         },
