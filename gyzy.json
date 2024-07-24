@@ -468,16 +468,14 @@
         "filterable": 0,
         "ext": "https://notabug.org/ygfxz/6/raw/main/XBPQ/七新影视.json"
       },
-{
-      "key": "csp_歪片",
-      "name": "🌋┃歪片┃",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/wanda/4k/-/raw/main/json/歪片星球.json"
-    },
+ {
+            "key": "雨视",
+            "name": "🍟魔都影视",
+            "type": 1,
+            "api": "https://www.moduzy3.com/api.php/provide/vod/",
+            "searchable": 0,
+            "quickSearch": 0
+        },
 	{
             "key": "影图影视",
             "name": "🥪影图影视(聚)",
