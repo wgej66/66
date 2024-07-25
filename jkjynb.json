@@ -286,6 +286,7 @@
       "filterable": 1,
       "ext": "./a/黑狐影视.json"
     },
+    {"key": "csp_XYQHiker_电影港","name":"🧲电影港(XYQH)","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影港磁力.json"},
 	 {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
 	{"key":"cjy50","name":"爱坤资源","type":1,"api":"https://ikunzyapi.com/api.php/provide/vod/","searchable":1,"recordable":0},
 	{"key":"cjy74","name":"影图","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"recordable":0},
