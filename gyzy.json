@@ -1,4 +1,4 @@
-{"spider":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+{"spider":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -14,8 +14,8 @@
        {"key":"畅梦","name":"💯专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
        {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
 	{"key":"drpy_555","name":"健教速播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
-{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
+  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
+{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
     {"key": "csp_XBPQ_6V",
   "name": "🌙影视4K",
   "type": 3,
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/超前B站.json","jar": "./jar/4k.jar"
+      "ext": "./a/超前B站.json","jar": "https://py.nxog.eu.org/proxy/https://raw.githubusercontent.com/guot55/yg/main/jar/4k.jar"
     },
     {
       "key": "戏曲杂苑",
