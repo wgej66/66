@@ -28,7 +28,7 @@
             "name": "🌙卫总|影院",
             "type": 3,
             "api": "csp_XBPQ",
-  "jar": "./lib/XBPQ2.jar",
+            "jar": "./lib/XBPQ2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
