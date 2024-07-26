@@ -17,7 +17,7 @@
   {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
 {"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
     {"key": "csp_XBPQ_6V",
-  "name": "🌙健教4K",
+  "name": "🌙影视4K",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
