@@ -1,4 +1,4 @@
-{"spider":"./jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+{"spider":"https://git.acwing.com/lw0704/66/-/raw/master/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -12,10 +12,10 @@
         },
 	{"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
        {"key":"畅梦","name":"💯专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-       {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"./lib/o.jar","searchable":1,"changeable":1},
+       {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://git.acwing.com/lw0704/66/-/raw/master/lib/o.jar","searchable":1,"changeable":1},
 	{"key":"drpy_555","name":"健教速播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
-{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "./custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
+  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "https://git.acwing.com/lw0704/66/-/raw/master/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
+{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "https://git.acwing.com/lw0704/66/-/raw/master/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
     {"key": "csp_XBPQ_6V",
   "name": "🌙影视4K",
   "type": 3,
@@ -28,7 +28,7 @@
             "name": "🌙卫总|影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "./lib/XBPQ2.jar",
+            "jar": "https://git.acwing.com/lw0704/66/-/raw/master/lib/XBPQ2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -94,7 +94,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/超前B站.json","jar": "./jar/4k.jar"
+      "ext": "./a/超前B站.json","jar": "https://git.acwing.com/lw0704/66/-/raw/master/jar/4k.jar"
     },
     {
       "key": "戏曲杂苑",
