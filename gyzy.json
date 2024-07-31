@@ -1,4 +1,4 @@
-{"spider":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/liuwei0704/66/master/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
+{"spider":"https://py.nxog.eu.org/https://raw.githubusercontent.com/liuwei0704/66/master/jar/0606.jar;md5;3A017244A8B8691E10152BBCA9C4DE6F",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -12,10 +12,10 @@
         },
 	{"key":"drpy_555","name":"555[DR]","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
        {"key":"畅梦","name":"💯专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-       {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
+       {"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
 	{"key":"drpy_555","name":"健教速播","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
-{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
+  {"key": "csp_XYQHiker_看一看影视","name":"看一看影视","type":3,"api":"csp_XYQHiker","jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/看一看影视.json"},
+{"key": "csp_XYQHiker_电影牛影院","name":"电影牛影院","type":3,"api":"csp_XYQHiker","jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/custom_spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQHiker/电影牛影院.json"},
     {"key": "csp_XBPQ_6V",
   "name": "🌙影视4K",
   "type": 3,
@@ -28,7 +28,7 @@
             "name": "🌙卫总|影院",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
+            "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -63,8 +63,8 @@
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
       "type": 3,
-      "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
+      "api": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
+      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/js/jp.js"
     },
     {
       "key": "csp_LiteApple",
@@ -72,7 +72,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_LiteApple",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
+      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/ap.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -94,18 +94,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./a/超前B站.json","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/4k.jar"
+      "ext": "./a/超前B站.json","jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/4k.jar"
     },
     {
       "key": "戏曲杂苑",
       "name": "戏曲杂苑",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
+      "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar",
       "searchable": 0,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
+      "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
     },
  {
       "key": "saohuo",
