@@ -18,6 +18,7 @@
 	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"./lib/o.jar","searchable":1,"changeable":1},
 	{"key":"FreeOK","name":"富瑞┃影视","type":3,"api":"csp_FreeOK","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
 	{"key":"毛驴影视","name":"毛驴┃影视","type":3,"api":"csp_MaoLv","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
+  {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
     {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
   "type": 3,
