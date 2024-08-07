@@ -12,7 +12,6 @@
         },
        {"key":"畅梦","name":"💯健教秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 	{"key":"drpy_js_yt","name":"🌙健教|速播","type":3,"api":"./lib/drpy2.min.js","ext":"./js/yt.js"},
-  {"key":"看看影视","name":"看看┃影视","type":3,"api":"csp_WebIV","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"农民影视","name":"农民影视","type":3,"api":"csp_WexNmys","jar":"./lib/o.jar","searchable":1,"changeable":1},
 	{"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
 	{"key":"愉悦影视","name":"愉悦┃影视","type":3,"api":"csp_Wexyuyueys","jar":"./lib/o.jar","searchable":1,"changeable":1},
@@ -1362,7 +1361,7 @@
             "key": "奶香m",
             "name": "🔞采集.奶香香",
             "type": 1,
-            "api": "https://Naixxzy.com/api.php/provide/vod/?ac=list",
+            "api": "https://naixxzy3.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
 {
