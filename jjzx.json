@@ -80,28 +80,31 @@
         "免嗅": "1"
       }
     },{
-      "key": "csp_xBPQ_天堂鸟精品",
-      "name": "👠天堂鸟精品T",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-       "ext": {
-"请求头":"手机",
-"站名":"奶很大",
-"主页url":"https://www.ttdao666.buzz/index.php",
-"直接播放":"1",
-"标题": "title=\"&&\"",
-"图片": "url('&&'",
-"跳转播放链接": "var playUrl = '&&'",
-"搜索模式":"1",
-"嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
-"搜索url":"/index.php/vod/search/{wd}----------{pg}---.html",
-"分类url":"https://www.ttdao666.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
-"分类":"草莓猛料$136#玩偶姐姐$133#兔子先生$131#91茄子$129#奇兵有码$27#国产视频$1#日本视频$2#中文字幕$9#无码中文$34#主播大秀$12#欧美视频$5#女神学生$16#娇妻素人$18空姐模特$19#职场同事$23#强奸中文$35#制服中文$38#出轨中文$41#韩国制服主播$43#制服师生$50"
-}  },
+      "key": "小幺女|床吧",
+  "name": "🔞小幺女",
+  "type": 3,
+  "playerType": 2,
+  "api": "csp_XBPQ",
+ "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "站名": "小幺女",
+    "主页url": "https://xxynhkaa1.buzz/",
+    "数组": "class=\"vod_box\">&&</li>",
+    "图片": "url('&&'",
+    "标题": "title=\"&&\"",
+    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
+    "跳转播放链接": "var playUrl = '&&'",
+    "直接播放": "1",
+    "嗅探词": "index.m3u8",
+    "分类数组": "<a&&</a",
+    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
+    "分类ID": "href=\"/sort/id/&&.html\"",
+    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
+  }
+},
 
 
 
