@@ -145,6 +145,9 @@
       "name": "❤️‍🔥〔PPT丨XP™〕",
       "type": 3,
       "api": "csp_XBPQ",
+      "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "ext": {
         "首页":"电视剧$30",
@@ -166,7 +169,6 @@
         "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
         "播放标题": ">&&</a >",
         "播放链接": "href=\"&&\"",
-        "直接播放":"1",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
       }
