@@ -157,8 +157,6 @@
         "副标题": "class=\"badge badge-success\">&&</span>",
         "链接": "href=\"&&\"",
         "搜索url": "https://ptt.red/node/search?title={wd}",
-        "搜索数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-        "搜索副标题": "class=\"badge badge-success\">&&</span>",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
       }
