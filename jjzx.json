@@ -157,7 +157,6 @@
         "副标题": "class=\"badge badge-success\">&&</span>",
         "链接": "href=\"&&\"",
         "搜索url": "https://ptt.red/node/search?title={wd}",
-        "多线数组": "class=\"nav-item\">&&</li",
         "线路标题": "title=\"&&\"",
         "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
