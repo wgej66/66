@@ -161,6 +161,7 @@
         "搜索副标题": "class=\"badge badge-success\">&&</span>",
         "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
         "多线数组": "class=\"nav-item\">&&</li",
+        "多线链接": "href=\"&&\"",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
       }
