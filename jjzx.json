@@ -151,7 +151,7 @@
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "ext": {
         "首页":"电视剧$30",
-        "数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
+        "数组":"col-xl-2 col-lg-2 col-md-2 col-sm-3 col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
         "图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "class=\"badge badge-success\">&&</span>",
