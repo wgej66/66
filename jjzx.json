@@ -150,14 +150,15 @@
          "filterable":1,
       "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "ext": {
-      "首页":"电视剧$30",
+     "首页":"电视剧$30",
         "数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
         "图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "class=\"badge badge-success\">&&</span>",
         "链接": "href=\"&&\"",
         "搜索url": "https://ptt.red/node/search?title={wd}",
-        "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
+        "搜索数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
+        "搜索副标题": "class=\"badge badge-success\">&&</span>",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
       }
