@@ -29,7 +29,16 @@
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#18禁$6"
             }
-             },
+             }, {
+      "key": "ssys",
+      "name": "三思┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./lib/348.json"
+    }, 
              {"key":"drpy_js_酷吧","name":"酷吧[js]|磁","type":3,"api":"./lib/drpy2.min.js","ext":"./js/kuba.js", "quickSearch":1, "changeable":1, "timeout":60},
 	 {
       "key": "drpy_js_荐片",
