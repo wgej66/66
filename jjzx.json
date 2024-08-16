@@ -215,7 +215,7 @@
       "searchable":1,
          "quickSearch":1,
          "filterable":1,
-      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+      "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/Aoki.jar",
       "ext":{
     "规则名": "PPT",
     "请求头参数": "MOBILE_UA",
