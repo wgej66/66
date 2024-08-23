@@ -1467,7 +1467,7 @@
 }  },{"key":"高清xxxx黑料",
          "name":"🍁高清xxxx黑料",
          "type":3,
-         "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+         "jar": "./jar/hl.jar",
          "api":"csp_XBPQ",
          "searchable":1,
          "quickSearch":1,
