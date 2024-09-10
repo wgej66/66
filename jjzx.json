@@ -31,34 +31,6 @@
     },
 {"key":"畅梦","name":"专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 {"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","jar":"https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
-{ "key": "海纳TV", "name": "海纳|TV", "type": 3, "api": "csp_XBPQ", "ext": { "主页url": "https://hainatv.net/", "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
-{"key":"sc影视","name":"盛城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./y/sc1080.json"},
-{
-            "key": "奈落",
-            "name": "奈落┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "主页url": "",
-                "搜索url": "https://www.newfii.com/vodsearch/{wd}----------{pg}---.html",
-                "播放组数": "module-blocklist&&</div>",
-                "跳转播放链接": "var player_*url\":\"&&\"",
-                "跳转解析": "默认$var Player*url=",
-                "数组": "module-item&&</div>",
-                "线路标题": "<span>&&</span>",
-                "标题": "title=\"&&\"",
-                "图片": "data-src=\"&&\"",
-                "副标题": ">&&</div>",
-                "线路数组": "module-tab-item tab-item&&</div>",
-                "简介": "<span>&&</span>",
-                "链接": "href=\"&&\"",
-                "分类url": "https://www.newfii.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#剧集$2#综艺$4#动漫$3#记录片$5#B站$39#短剧$53#私密$52",
-                "筛选": ""
-            }
-        },
 {
       "key": "牛Y", 
       "name": "牛Y┃影视", 
@@ -330,35 +302,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
-    },
- {
-      "key": "saohuo",
-      "name": "🌙骚火┃电影",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "嗅探词": ".m3u8#.mp4#.m3u8?#freeok.mp4",
-        "分类url": "https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0",
-        "分类": "电影$1#剧情$15#电视剧$2#韩剧$22#美剧$23#动漫$4",
-        "数组二次截取": "class=\"v_list\">&&</ul>",
-        "数组": "\"v_img\"&&/div>",
-        "标题": "title=\"&&\"",
-        "副标题": "v_note\"&&</div",
-        "跳转播放链接": "<iframe*src=\"&&\"",
-        "二次跳转播放链接": "https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1",
-        "三次跳转播放链接": "\"url\"*\"&&\""
-      }
-    },
-{
-      "key": "rarbt",
-      "name": "💖分享┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/rarbt.json"
     },
 {
             "key": "高清资源网",
