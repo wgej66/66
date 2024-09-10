@@ -11,6 +11,7 @@
             "filterable": 0
         },
      {"key":"drpy_555","name":"速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
+     {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
@@ -551,16 +552,6 @@
     },
 {"key":"360_spider","name":"🐞360影视","type":3,"api":"csp_SP360","filterable":1,"quickSearch":1,"searchable":1,"jar": "./jar/7.jar"},
 {"key": "csp_日后","name": "🥇三思","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/wanda/4k/-/raw/main/json/348影视.json","jar":"https://jihulab.com/wanda/4k/-/raw/main/jar/yytt.jar"},
-{
-        "key": "csp_xBPQ_qixing",
-        "name": "┃七新┃影视",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "ext": "./a/七新影视.json"
-      },
 
 
             {"key":"22","name":"接口仅供测试，请勿贩售","type":0,"api":""},
