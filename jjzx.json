@@ -32,7 +32,7 @@
 {"key":"畅梦","name":"专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 {"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","jar":"https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
 { "key": "海纳TV", "name": "海纳|TV", "type": 3, "api": "csp_XBPQ", "ext": { "主页url": "https://hainatv.net/", "分类url": "https://hainatv.net/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html", "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$59#解说$64"}},
-{"key":"sc影视","name":"盛城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1,"ext":"./y/sc1080.json"},
+{"key":"sc影视","name":"盛城┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./y/sc1080.json"},
 {
             "key": "奈落",
             "name": "奈落┃蓝光",
