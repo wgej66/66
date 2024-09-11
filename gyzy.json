@@ -520,6 +520,7 @@
       "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
       "quickSearch": 1,
+      "playurl": "json:https://hhjiexi.com/play/?url=",
       "categories": [
         "内地剧",
         "香港剧",
