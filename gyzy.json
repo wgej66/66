@@ -13,7 +13,7 @@
      {"key":"drpy_555","name":"速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
      {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
      {"key":"快看影视","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
-     { "key": "zycj_天天", "name": "海燕采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
+     { "key": "zycj_天天", "name": "海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
