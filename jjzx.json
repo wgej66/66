@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+{"spider":"./pg.jar",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -16,6 +16,7 @@
       "playerType": 1,
       "type": 3,
       "api": "csp_AppYsV2",
+      "jar": "https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
