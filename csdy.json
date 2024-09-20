@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+{"spider":"./pg.jar",
 "sites":[
 {
             "key": "js豆瓣1",
