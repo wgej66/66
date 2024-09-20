@@ -19,6 +19,20 @@
 	{"key":"毛驴影视","name":"毛驴┃影视","type":3,"api":"csp_MaoLv","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":1},
   {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","jar": "./lib/XBPQ.jar","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"18禁$8#电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}},
   {
+      "key": "醉挽清风",
+      "name": "❤️墨玉┃4K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "playUrl": "json:http://103.117.123.51:6523/zhuimi666.php?url=",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
+    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
+    },
+
+  {
             "key": "奈落",
             "name": "奈落┃蓝光",
             "type": 3,
