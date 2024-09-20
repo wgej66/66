@@ -28,6 +28,49 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },{
+      "key": "君君",
+      "name": "🚗君君┃4K4K",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+       {
+      "key": "摸鱼瓜子",
+      "name": "❤️墨玉┃2K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js",
+    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
+    },
+    {
+      "key": "醉挽清风",
+      "name": "❤️墨玉┃4K纯净",
+      "type": 3,
+      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "playUrl": "json:http://103.117.123.51:6523/zhuimi666.php?url=",
+      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js",
+    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
+    },
+
+    {
+      "key": "freeok",
+      "name": "👌OK┃蓝光",
+      "type": 3,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "api": "csp_FreeOK",
+    "jar": "https://gitee.com/iitvbox/jar/raw/master/%E5%B0%8F%E7%B1%B3/xiaomi.jar"
     },
 {
       "key": "可口可乐",
