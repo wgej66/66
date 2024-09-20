@@ -45,7 +45,7 @@
     },
      {
       "key": "360资源",
-      "name": "🌞360┃去光",
+      "name": "360┃影视",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
