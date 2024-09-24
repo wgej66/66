@@ -11,6 +11,7 @@
             "filterable": 0
         },
        {"key":"畅梦","name":"💯测试秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
+       {"key":"PTT影视","name":"💖分享 PTT","type":3,"api":"csp_PTT","searchable":1,"changeable":1,"jar": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/ptt.jar"},
 	 {
       "key": "drpy_js_荐片",
       "name": "荐片|优质",
