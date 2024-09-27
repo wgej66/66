@@ -33,6 +33,20 @@
       "filterable": 1
     },
     {
+            "key": "小熊影视",
+            "name": "🧿小熊┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "动作片$6#伦理片$5#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4"
+            }
+        },
+    {
             "key": "85K",
             "name": "🧿巴乌┃蓝光",
             "type": 3,
