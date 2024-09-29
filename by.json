@@ -51,7 +51,7 @@
     },
      {
       "key": "小马",
-      "name": "🐎小马┃蓝光┃纯净",
+      "name": "🧿小马┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
@@ -59,7 +59,7 @@
     },
     {
       "key": "剧兔",
-      "name": "🐇剧兔┃蓝光┃纯净",
+      "name": "🧿剧兔┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
       "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
@@ -67,7 +67,7 @@
     },
      {
       "key": "忍者影视",
-      "name": " 🕵忍者┃蓝光┃多线",
+      "name": " 🧿忍者┃蓝光",
       "type": 3,
       "api": "csp_AppRZ",
       "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
@@ -75,6 +75,27 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://rzys.xyz/"
+    },
+     {
+      "key": "看客影视",
+      "name": "🧿看客┃蓝光",
+      "type": 3,
+      "api": "csp_Kanke",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+     {
+      "key": "子子影视",
+      "name": "🧿子子┃蓝光",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=子子影视"
     },
      {"key":"快看影视","name":"🧿快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
      { "key": "zycj_天天", "name": "🧿海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
