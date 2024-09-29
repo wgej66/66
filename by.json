@@ -49,6 +49,14 @@
         "from": "4k|auto"
       }
     },
+     {
+      "key": "小马",
+      "name": "🐎小马┃蓝光┃纯净",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
+      "ext": "https://mas.szyyds.cn/api.php/app/"
+    },
      {"key":"快看影视","name":"🧿快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
      { "key": "zycj_天天", "name": "🧿海燕┃采集", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8", "playUrl": "", "categories": [ "内地剧", "动作片","伦理片", "科幻片", "战争片", "喜剧片", "爱情片", "恐怖片", "犯罪片", "剧情片", "冒险片", "记录片",  "韩剧", "香港剧", "台湾剧", "欧美剧", "日剧", "马泰剧", "体育赛事", "综艺", "动画片", "中国动漫", "日本动漫", "欧美动漫" ] },
 {
