@@ -91,6 +91,7 @@
       "name": "🧿国际|子子",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -127,7 +128,7 @@
         "播放标题":"<span>&&</span>",    
         "播放链接":"href=\"&&\"",        
         "分类url":"https://www.ziziys.com/list/{cateId}-{catePg}.html;;ak",    
-        "分类":"电影$1#国产剧$13#动漫$3#美剧$14#日韩剧$15"
+        "分类":"电影$1#国产剧$13#伦理片$27#动漫$3#美剧$14#日韩剧$15"
     }
     },
      {"key":"快看影视","name":"🧿快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"},
