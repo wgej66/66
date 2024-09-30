@@ -49,6 +49,17 @@
         "from": "4k|auto"
       }
     },
+     {
+            "key": "龙伊影视",
+            "name": "🧿龙一┃蓝光",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/ap.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://影视.龙伊.top/api.php/app/"
+        },
     {
       "key": "剧兔",
       "name": "🧿剧兔┃蓝光",
