@@ -53,6 +53,7 @@
             "name": "🧿多多┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -81,6 +82,7 @@
          {
             "key": "97影视",
             "name": "🧿97┃蓝光",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
