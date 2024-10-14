@@ -60,17 +60,6 @@
 			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/金牌影院.js"
 		},
     {
-			"key": "js_zxzj",
-			"name": "🧿在线┃蓝光",
-			"type": 3,
-      "api": "./lib/drpy2.min.js",
-      "jar": "./custom_spider.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "./drpy_js/在线之家.js"
-		},
-    {
             "key": "多多影院",
             "name": "🧿多多┃蓝光",
             "type": 3,
