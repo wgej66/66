@@ -49,6 +49,17 @@
       }
     },
     {
+			"key": "hipy_js_金牌影院",
+			"name": "金牌┃影院",
+			"type": 3,
+			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/金牌影院.js"
+		},
+    {
             "key": "多多影院",
             "name": "🧿多多┃蓝光",
             "type": 3,
