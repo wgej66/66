@@ -63,11 +63,11 @@
 			"key": "js_zxzj",
 			"name": "🧿在线┃蓝光",
 			"type": 3,
+      "api": "./lib/drpy2.min.js",
+      "jar": "./custom_spider.jar",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"api": "./lib/drpy2.min.js",
-      "jar": "./custom_spider.jar",
 			"ext": "./drpy_js/在线之家.js"
 		},
     {
