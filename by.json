@@ -67,7 +67,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "./lib/drpy2.min.js",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/ap.jar",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/0606.jar",
 			"ext": "./drpy_js/在线之家.js"
 		},
     {
