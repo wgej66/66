@@ -60,6 +60,15 @@
 			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/金牌影院.js"
 		},
     {
+			"key": "kimi",
+			"name": "Kimi┃影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"style": {
+				"ratio": 1.33
+			},
+			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
+    {
             "key": "多多影院",
             "name": "🧿多多┃蓝光",
             "type": 3,
