@@ -62,6 +62,7 @@
     {
 			"key": "kimi",
 			"name": "Kimi┃影视",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"style": {
