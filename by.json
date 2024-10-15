@@ -61,14 +61,14 @@
 		},
     {
 			"key": "kimi",
-			"name": "Kimi┃影视",
+			"name": "🧿Kimi┃影视",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
 			"type": 3,
 			"api": "csp_XBPQ",
 			"style": {
 				"ratio": 1.33
 			},
-			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
+			"ext":"https://gitee.com/lwlxh/tvhome/raw/master/Kimivod.json"},
     {
             "key": "多多影院",
             "name": "🧿多多┃蓝光",
