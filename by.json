@@ -52,12 +52,12 @@
 			"key": "hipy_js_金牌影院",
 			"name": "🧿金牌┃影院",
 			"type": 3,
-			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
+			"api": "https://cdn05042023.gitlink.org.cn/YGFXZ/TVBOX/raw/branch/master/JS/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/金牌影院.js"
+			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/%e9%87%91%e7%89%8c%e5%bd%b1%e9%99%a2.js"
 		},
     {
 			"key": "kimi",
