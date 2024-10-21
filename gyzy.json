@@ -44,19 +44,19 @@
 			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/%e9%87%91%e7%89%8c%e5%bd%b1%e9%99%a2.js"
 		},
      {
-             "key": "文才",
-                   "name": "🌺文才┃弹幕",
-                         "type": 3,
-                               "api": "csp_Jpys",
-                                     "searchable": 1,
-                                           "quickSearch": 1,
-                                                 "filterable": 1,
-                                                       "ext": {
-                                                               "danmu": true
-                                                                     },
-                                                                           "timeout": 10,
-                                                                               "jar": "http://ttkx.live:55/lib/ttkx.jar"
-                                                                                   },
+      "key": "文才",
+       "name": "🧿文才┃弹幕",
+       "type": 3,
+       "api": "csp_Jpys",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1,
+       "ext": {
+        "danmu": true
+       },
+        "timeout": 10,
+        "jar": "http://ttkx.live:55/lib/ttkx.jar"
+       },
     {
             "key": "唐人",
             "name": "🧿唐人┃蓝光",
