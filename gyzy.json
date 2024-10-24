@@ -32,16 +32,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
+   {
 			"key": "hipy_js_金牌影院",
 			"name": "🧿金牌┃影院",
 			"type": 3,
-			"api": "http://www.uuneed.cn/ygbh/bh/raw/master/drpy_libs/drpy2.min.js",
+			"api": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "http://www.uuneed.cn/ygbh/bh/raw/4102b5e8cea738c78c37d1be0b2974b8c215a642/drpy_js/%e9%87%91%e7%89%8c%e5%bd%b1%e9%99%a2.js"
+			"ext": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_js/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
 		},
      {
       "key": "文才",
