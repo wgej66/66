@@ -792,7 +792,7 @@
       "filterable": 1
     },
 	{"key":"疯狗影视","name":"🧿疯狗┃影视","type":3,"api":"csp_FengGo","jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xBPQ可可","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/lw0822/66/raw/branch/master/lib/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
+{"key":"csp_xBPQ可可","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://codeberg.org/lw0822/66/raw/branch/master/lib/%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json"},
 {
       "key": "牛Y", 
       "name": "🧿牛Y┃影视", 
