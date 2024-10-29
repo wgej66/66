@@ -797,7 +797,7 @@
       "key": "牛Y", 
       "name": "🧿牛Y┃影视", 
       "type": 1, 
-      "api": "https://api.niuniuzy.me/api.php/provide/vod/", 
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/at/xml", 
       "searchable": 1, 
       "quickSearch": 1, 
       "filterable": 1,
