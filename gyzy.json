@@ -43,16 +43,18 @@
 			"order_num": 0,
 			"ext": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_js/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A2.js"
 		},
-     {
-      "key": "文才",
-      "name": "🧿文才┃在线",
+      {
+      "key": "文才弹幕",
+      "name": "🧿文才┃弹幕",
+      "jar": "https://cdn09022024.gitlink.org.cn/guot55/yg/raw/jar%2Fbhtv.txt?ref=main",
       "type": 3,
       "api": "csp_Jpys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "timeout": 10,
-      "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884068216/okjpg.txt"
+      "ext": {
+        "danmu": true
+      }
     },
     {
             "key": "唐人",
