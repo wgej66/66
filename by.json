@@ -11,17 +11,7 @@
             "filterable": 0
         },
      {"key":"drpy_555","name":"🧿速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
-     {
-      "key": "君君",
-      "name": "🧿君君┃4K",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
+     {"key":"New6v","name":"🧿六威┃磁力","type":3,"api":"csp_New6v","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
     {
       "key": "醉挽清风",
       "name": "🌀醉挽清风┃4K纯净",
