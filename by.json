@@ -12,6 +12,7 @@
         },
      {"key":"drpy_555","name":"🧿速播┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
      {"key":"New6v","name":"🧿六威┃磁力","type":3,"api":"csp_New6v","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
+     {"name":"艾旦","key":"艾旦影视","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "醉挽清风",
       "name": "🌀醉挽清风┃4K纯净",
