@@ -195,7 +195,7 @@
       "name": "🧿秒播┃纯净",
       "type": 3,
       "api": "csp_Libvio",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -219,7 +219,7 @@
       "name": "🧿剧兔┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
       "ext": "https://www.zjtu.one/api.php/app/"
     },
      {
@@ -227,7 +227,7 @@
       "name": "🧿小马┃蓝光",
       "type": 3,
       "api": "csp_AppYsV2",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
       "ext": "https://mas.szyyds.cn/api.php/app/"
     },
      {
@@ -235,7 +235,7 @@
       "name": " 🧿忍者┃蓝光",
       "type": 3,
       "api": "csp_AppRZ",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -246,7 +246,7 @@
       "name": "🧿看客┃蓝光",
       "type": 3,
       "api": "csp_Kanke",
-      "jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php",
+      "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
