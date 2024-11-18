@@ -22,6 +22,21 @@
       "filterable": 1,
       "ext": "http://122.228.85.203:1000/api.php/app/"
     },
+    {
+            "key": "片影视",
+            "name": "🧿片┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.cfkj86.com/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+            }
+        },
+
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
