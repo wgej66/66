@@ -295,7 +295,41 @@
         "分类url": "https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by-{by}-class-0-year-{year}-letter--area-{area}-lang-.html;;ak",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
+    },{
+      "key": "蓝光",
+      "name": "🧿┃蓝光",
+      "type": 3,
+      "api": "csp_XBPQ",
+   "jar": "./lib/XBPQ.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "影视提醒您,请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+        "导演": "影视TV",
+        "主演": "影视粉丝",
+        "影片地区": "地区：&&</p>",
+        "影片年代": "年份：&&</p>",
+        "影片状态": "<p class=\"data\">&&</p>",
+        "影片类型": "类型：&&</p>",
+        "数组": "stui-vodlist__thumb&&</a>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "pic-text text-right\">&&</span>",
+        "链接": "href=\"&&\"",
+        "线路数组": "<h4 class=\"title\"&&/h4>",
+        "线路标题": "影视专享",
+        "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放列表": "<li&&</li>",
+        "搜索模式": "1",
+        "搜索url": "https://www.cfkj86.com/type/id-.html?wd={wd}",
+        "嗅探词": "tos-#.mp4#cdn.123pan.cn#huoshanvod.com#.m3u8#video_mp4",
+        "分类url": "https://www.cfkj86.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html;;ak",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+      }
     },
+
  {
             "key": "卫总影院",
             "name": "🌙卫总|影院",
