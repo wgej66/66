@@ -22,6 +22,20 @@
       "filterable": 1,
       "ext": "http://122.228.85.203:1000/api.php/app/"
     },
+     {
+            "key": "爱优影视",
+            "name": "🧿爱优┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+                "分类url": "https://damifan.wiki/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#电视剧$21#动漫$22#综艺$35"
+            }
+        },
     {
             "key": "片影视",
             "name": "🧿片┃蓝光",
