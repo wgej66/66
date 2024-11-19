@@ -71,6 +71,16 @@
       "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/qingfeng.js"
     },
      {
+      "key": "csp_七新",
+      "name": "🍵七新影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/七新影视.json"
+    },
+     {
       "key": "csp_Wwys",
       "name": "🧿汪汪┃1080P",
       "type": 3,
