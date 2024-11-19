@@ -81,6 +81,17 @@
       "filterable": 1,
       "ext": "./a/七新影视.json"
     },
+    {
+      "key": "csp_佳能",
+      "name": "💛佳能影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./a/348影视.json","jar": "./jar/4k.jar"
+    },
      {
       "key": "csp_Wwys",
       "name": "🧿汪汪┃1080P",
