@@ -1424,7 +1424,7 @@
             "api": "https://naixxzy3.com/api.php/provide/vod/?ac=list",
             "searchable": 1
         }, 
-        { "key": "手鸡助手", "name": "🔞手鸡助手", "type":3,"api":"csp_XBPQ", "ext":{"请求头": "手机",  "直接播放": "1",
+        { "key": "手鸡助手", "name": "🔞手鸡助手", "type":3,"api":"csp_XBPQ","jar": "https://gitlab.com/guot55/bh/-/raw/main/jar/hl.jar", "ext":{"请求头": "手机",  "直接播放": "1",
    "分类url":"https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}",
     "分类":"日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505","播放标题": "<h1&&</h1>",
     "搜索url":"https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}"
