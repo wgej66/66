@@ -117,8 +117,8 @@
             }
         },
         {
-            "key": "片库影视",
-            "name": "🧿片库┃蓝光",
+            "key": "华人影视",
+            "name": "🧿华人┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
              "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
