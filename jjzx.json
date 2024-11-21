@@ -75,7 +75,7 @@
         },
  {
             "key": "影视",
-            "name": "🧿金牌┃蓝光",
+            "name": "🧿先生┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -83,8 +83,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.tjrongze.com/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+                "分类url": "https://silidm.com/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dy#连续剧$juji#动漫$dongman#综艺$zongyi"
             }
         },
      {
