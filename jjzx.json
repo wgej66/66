@@ -190,20 +190,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$30"
             }
         },
-        {
-            "key": "de影视",
-            "name": "🧿网红┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "http://www.whbgjj.cn/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunlipian"
-            }
-        },
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
