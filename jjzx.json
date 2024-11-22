@@ -141,7 +141,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://zjuys.com/type/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}/year/{year}",
+                "分类url": "https://zjuys.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}/year/{year}",
                 "分类": "电影$1#连续剧$2#动漫$4"
             }
         },
