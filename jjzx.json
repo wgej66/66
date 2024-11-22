@@ -175,6 +175,21 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#海外剧$20"
             }
         },
+         {
+            "key": "nm影视",
+            "name": "🧿老农┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+                "分类url": "https://www.gymboreejn.com/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$31"
+            }
+        },
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
