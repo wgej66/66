@@ -141,8 +141,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://zjuys.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}/year/{year}",
-                "分类": "电影$1#连续剧$2#动漫$4"
+                "分类url": "https://www.smdy3.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#连续剧$21#动漫$22"
             }
         },
 
