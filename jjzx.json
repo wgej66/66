@@ -195,6 +195,7 @@
             "name": "🧿网红┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o2.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
