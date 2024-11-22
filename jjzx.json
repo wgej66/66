@@ -133,7 +133,7 @@
         },
          {
             "key": "8视",
-            "name": "🧿电影先生┃蓝光",
+            "name": "🧿飘花┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -141,11 +141,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.smdy3.cc/type/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#连续剧$21#动漫$22"
+                "分类url": "https://www.phdy9.cc/type/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$dy#连续剧$dsj#动漫$dm"
             }
         },
-
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
