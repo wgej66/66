@@ -131,6 +131,21 @@
                 "分类": "电影$3#电视剧$1#动漫$2#综艺$4"
             }
         },
+         {
+            "key": "8视",
+            "name": "🧿电影先生┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.mydyxs.com/dyxs/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}ype",
+                "分类": "电影$dianying#连续剧$dianshiju#动漫$dongman"
+            }
+        },
+
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
