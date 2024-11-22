@@ -141,7 +141,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.phdy9.cc/type/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "https://www.phdy9.cc/p/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
                 "分类": "电影$dy#连续剧$dsj#动漫$dm"
             }
         },
