@@ -294,7 +294,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.hbithc.com/rebo/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "https://www.hbithc.com/rebo/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#伦理$30"
             }
         },
