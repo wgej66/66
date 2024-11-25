@@ -52,6 +52,7 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+                "线路标题": "<span>&&</span>",
                 "分类url": "https://damifan.wiki/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$20#电视剧$21#动漫$22#综艺$35"
             }
