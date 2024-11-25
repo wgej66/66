@@ -34,6 +34,7 @@
             "name": "网飞猫┃影视",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "数组": "module-item\">&&</div>",
                 "图片": "https://vres.vukfnqr.com+data-original=\"&&\"",
