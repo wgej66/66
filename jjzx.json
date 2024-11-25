@@ -263,6 +263,20 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$35"
             }
         },
+        {
+            "key": "宝贝影视",
+            "name": "🧿贝贝┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "http://niersi-ceramics.com/type/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#连续剧$d2j#动漫$4"
+            }
+        },
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
