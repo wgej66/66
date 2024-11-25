@@ -285,8 +285,8 @@
             }
         },
         {
-            "key": "影视",
-            "name": "🧿80先生┃蓝光",
+            "key": "00影视",
+            "name": "🧿热播┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
