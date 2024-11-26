@@ -307,8 +307,8 @@
             }
         },
         {
-            "key": "打工人",
-            "name": "🧿打工┃蓝光",
+            "key": "人人影视",
+            "name": "🧿人人┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -316,10 +316,10 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                 "影片类型": "圥忈制作",
+                "影片类型": "圥忈制作",
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-                "分类url": "https://dagongren2.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html"
-                "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian#伦理$lunlipian"
+                "分类url": "https://dagongren2.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
             }
         },
      {
