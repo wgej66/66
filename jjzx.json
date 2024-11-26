@@ -306,25 +306,19 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$26"
             }
         },
-        {
-            "key": "茶杯狐",
-            "name": "🧿茶狐┃蓝光",
+       {
+            "key": "连影视",
+            "name": "🧿连┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-              "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</span>",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "圥忈制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
-                "分类url": "https://dagongren2.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
+                "分类url": "https://languangdao2.com/show-/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$3#电视剧$1#动漫$2#综艺$4"
             }
         },
      {
