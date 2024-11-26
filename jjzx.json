@@ -307,8 +307,8 @@
             }
         },
         {
-            "key": "人人影视",
-            "name": "🧿人人┃蓝光",
+            "key": "茶杯狐",
+            "name": "🧿茶狐┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -316,9 +316,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "影片类型": "圥忈制作",
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"stui-pannel_bd\"&&</div>",
-                "分类url": "https://dagongren2.com/list/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "影片地区": "圥忈制作",
+                "影片年代": "<div class=\"module-info-tag\">&&</div>",
+                "影片状态": "备注：&&</div>",
+                "影片类型": "module-info-tag\">&&立即播放",
+                "线路数组": "<div class=\"module-tab-item tab-item\"&&</div>[不包含:蓝光#蓝光①#蓝光②#蓝光③#蓝光④#蓝光⑤#蓝光⑥]",
+                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+                "播放数组": "<div class=\"module-play-list\"&&</div>",
+                "分类url": "https://dagongren2.com/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman#纪录片$jilupian"
             }
         },
