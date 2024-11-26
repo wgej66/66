@@ -306,20 +306,6 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$26"
             }
         },
-       {
-            "key": "00影视",
-            "name": "🧿老王┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.laowang.co/v/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
-            }
-        },
      {
       "key": "醉挽清风",
       "name": "❤️墨玉┃4K纯净",
