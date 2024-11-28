@@ -10,6 +10,28 @@
             "quickSearch": 0,
             "filterable": 0
         },
+         {
+      "key": "guoguo",
+      "name": "果果┃4K",
+      "type": 3,
+      "api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/drpy_js%2Fguoguo.js?ref=master"
+    }, {
+			"key": "hipy_js_瓜子视频",
+			"name": "瓜子┃视频",
+			"type": 3,
+			"api": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/bh666/bhapi/raw/branch/master/drpy_js/%e7%93%9c%e5%ad%90%e8%a7%86%e9%a2%91.js"
+		},
         {
       "key": "八号影院",
       "name": "🔥┃八号知足┃影视",
