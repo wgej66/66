@@ -15,6 +15,7 @@
             "name": "🧿爱看┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
