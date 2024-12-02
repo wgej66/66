@@ -340,7 +340,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.wwstcs.com/class/{cateId}-{catePg}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#剧情$11"
             }
         },
 
