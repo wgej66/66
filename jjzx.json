@@ -343,7 +343,20 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#剧情$11"
             }
         },
-
+         {
+            "key": "棍影视",
+            "name": "🧿光┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://6d.zzdacou.com/whole/fyclass_______0_id_fypage.html",
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#剧情$11"
+            }
+        },
         {
             "key": "奈落",
             "name": "奈落┃蓝光",
