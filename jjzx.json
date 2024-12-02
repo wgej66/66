@@ -102,7 +102,6 @@
                 "影片类型": "module-info-tag\">&&立即播放",
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
-                "图片": "data-src=\"&&\"",
                 "线路标题": "<span>&&</span>",
                 "分类url": "https://dami820.shop/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$20#电视剧$21#动漫$22#综艺$35"
