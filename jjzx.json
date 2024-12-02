@@ -330,8 +330,8 @@
             }
         },
          {
-            "key": "07影视",
-            "name": "🧿07┃蓝光",
+            "key": "光棍影视",
+            "name": "🧿光棍┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
              "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
