@@ -357,18 +357,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
-         {
-            "key": "多头影视",
-            "name": "🧿多瑙┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": 
-              "./多瑙影视.js"
-        },
         {
             "key": "奈落",
             "name": "奈落┃蓝光",
