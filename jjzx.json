@@ -11,8 +11,8 @@
             "filterable": 0
         },
         {
-            "key": "纽约影视",
-            "name": "🧿纽约┃蓝光",
+            "key": "楚梦影视",
+            "name": "🧿楚梦┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
