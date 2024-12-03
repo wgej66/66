@@ -14,7 +14,7 @@
             "key": "j1",
             "name": "广告",
             "type": 3,
-            "api": "./lib/drpy2.min.js",
+            "api": "csp_XBPQ",
             "ext": "./多瑙影视.js",
             "searchable": 1,
             "quickSearch": 1,
