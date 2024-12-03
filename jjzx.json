@@ -21,7 +21,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.nycvod.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$50#伦理剧$8"
             }
         },
          {
