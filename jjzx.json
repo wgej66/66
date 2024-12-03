@@ -10,28 +10,6 @@
             "quickSearch": 0,
             "filterable": 0
         },
-       {
-            "key": "85j",
-            "name": "🧿乌┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片地区": "圥忈制作",
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "嗅探词": ".m3u8?#c1.rrcdnbf3.com#.m3u8#.mp4",
-                "跳转解析": "默认$https://cdn.zyc888.top/?url=",
-                "分类url": "https://www.duonaovod.com/index.php/vod/show/%7BcateId%7D/area/%7Barea%7D/by/%7Bby%7D/class/%7Bclass%7D/page/%7BcatePg%7D/year/%7Byear%7D.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$47#纪录片$29"
-            }
-        },
         {
             "key": "爱看",
             "name": "🧿爱看┃蓝光",
