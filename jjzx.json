@@ -11,6 +11,20 @@
             "filterable": 0
         },
         {
+            "key": "单据影视",
+            "name": "🧿蛋蛋剧┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.ddjhd.com/type/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            }
+        },
+        {
             "key": "魔法影视",
             "name": "🧿魔法┃蓝光",
             "type": 3,
