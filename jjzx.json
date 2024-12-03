@@ -21,7 +21,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "https://www.inmi.app/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+                "分类": "电影$uCCCCS-#连续剧$2#动漫$4#综艺$3"
             }
         },
          {
