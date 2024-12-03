@@ -131,6 +131,7 @@
                 "影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放",
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+                "图片": "data-src=\"&&\"",
                 "分类url": "https://www.aikanhd.vip/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#港台剧$14#日韩剧$15#美剧$16#动漫$4#综艺$3#短剧$20#伦理剧$21"
             }
