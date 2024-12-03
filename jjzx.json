@@ -20,7 +20,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.inmi.app/index.php/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.inmi.app/index.php/vod/show/id/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$uCCCCS-#连续剧$2#动漫$4#综艺$3"
             }
         },
