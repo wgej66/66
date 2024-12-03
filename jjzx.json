@@ -387,6 +387,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
+                "图片": "data-src=\"&&\"",
                 "分类url": "https://www.ncat2.com/show/{cateId}-{class}-{area}--{year}-2-{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$6"
             }
