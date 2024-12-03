@@ -11,6 +11,17 @@
             "filterable": 0
         },
         {
+            "key": "j1",
+            "name": "广告",
+            "type": 3,
+            "api": "./lib/drpy2.min.js",
+            "ext": "./多瑙影视.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+        {
             "key": "爱看",
             "name": "🧿爱看┃蓝光",
             "type": 3,
