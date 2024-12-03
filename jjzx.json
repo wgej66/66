@@ -11,8 +11,8 @@
             "filterable": 0
         },
         {
-            "key": "000影视",
-            "name": "🧿12米┃蓝光",
+            "key": "稀饭影视",
+            "name": "🧿稀饭┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
