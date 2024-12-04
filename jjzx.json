@@ -25,6 +25,25 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$50#伦理剧$8"
             }
         },
+         {
+      "key": "csp_影業",
+      "name": "酒吧┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "ext": {
+        "站名": "玖八",
+        "主页url": "http://www.98dyb.com/",
+        "简介": "提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+        "影片状态": "状态：&&</p>",
+        "副标题": "✨玉玉软件库✨+text-right\">&&</span>",
+        "搜索url": "/search.php;post;searchword={wd}",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "玉玉专享✨+src=*>&&<",
+        "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      }
+    },
         {
       "key": "花姐影院",
       "name": "花姐┃影视",
