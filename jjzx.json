@@ -40,6 +40,7 @@
                 "影片状态": "bottom\">&&</div>", 
                 "二次截取": "videoList\":\\[&&\\]", 
                 "数组": "{&&}",
+                "图片": "data-src=\"&&\"",
                 "标题": "vodName\":\"&&\"", 
                 "副标题": "vodRemarks\":\"&&\"", 
                 "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
