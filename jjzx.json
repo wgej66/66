@@ -32,7 +32,6 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
         "分类url": "https://www.222hhm.com/{cateId}/index{catePg}.html[https://www.222hhm.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
