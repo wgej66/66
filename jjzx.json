@@ -38,6 +38,7 @@
         "直接播放": "1",
                 "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
                 "免嗅": "1",
+                "数组": "<div class=\"img-box cover-md\">&&</h1>",
     "标题": "<h1 class=\"title\">&&</a>",
     "链接": "href=\"&&\"",
     "副标题": "<div class=\"ribbon-top-left\">&&</span>",
