@@ -33,7 +33,7 @@
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
         "直接播放": "1",
-                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+                "嗅探词": "",
                 "免嗅": "1",
     "标题": "<h1 class=\"title\">&&</a>",
     "链接": "href=\"&&\"",
