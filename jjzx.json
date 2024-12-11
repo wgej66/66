@@ -26,30 +26,6 @@
             }
         },
          {
-      "key": "cs影業",
-      "name": "221┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/hl.jar",
-      "ext": {
-        "直接播放": "1",
-                "嗅探词": "",
-                "免嗅": "1",
-    "标题": "<h1 class=\"title\">&&</a>",
-    "链接": "href=\"&&\"",
-    "副标题": "<div class=\"ribbon-top-left\">&&</span>",
-    "线路标题": ">&&</a>",
-    "播放数组": "<div class=\"item line\">&&</div>",
-    "影片类型": "<p class=\"sub-title\"&&</p>",
-    "简介": "<div class=\"header-left\">&&</div>",
-    "播放列表": "<a&&/a>",
-    "播放标题": ">&&<",
-    "播放链接": "href=\"&&\"",
- "分类url": "https://222hhm.com/{cateId}/index{catePg}.html",
- "分类": "电影$toupaizipai#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-      }
-    },
-         {
       "key": "csp_影業",
       "name": "酒吧┃影视",
       "type": 3,
