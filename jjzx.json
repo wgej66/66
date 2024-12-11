@@ -34,6 +34,7 @@
       "ext": {
         "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+                "免嗅": "1",
                 "图片": "data-original=\"&&\"",
                 "标题": "title=\"&&\"",
                 "链接": "href=\"&&\"",
