@@ -25,6 +25,23 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$50#伦理剧$8"
             }
         },
+        {
+      "key": "呜呜_影業",
+      "name": "呜呜┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "ext": {
+         "主页url": "https://www.5555kan.com/",
+  "简介": "+<p class=\"col-pd\"&&</p>",
+  "导演": "导演：&&</p>",
+  "主演": "主演：&&</p>",
+  "线路数组": "<h3 class=\"title\">&&/h3>",
+  "线路标题": ">&&<",
+  "分类url": "https://www.5555kan.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+  "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
          {
       "key": "csp_影業",
       "name": "酒吧┃影视",
