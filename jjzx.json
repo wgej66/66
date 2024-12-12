@@ -25,6 +25,20 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$50#伦理剧$8"
             }
         },
+         {
+            "key": "片影视",
+            "name": "🧿片┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.yingshikong1.com/list/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
+            }
+        },
         {
       "key": "呜呜_影業",
       "name": "呜呜┃影视",
