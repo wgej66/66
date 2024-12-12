@@ -26,8 +26,8 @@
             }
         },
          {
-            "key": "片影视",
-            "name": "🧿片┃蓝光",
+            "key": "影视控影视",
+            "name": "🧿影视控┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
