@@ -40,7 +40,7 @@
                 "影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放",
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-               "线路数组":"data-dropdown-value=&&</div>", 
+               "播放数组":"<div class=\"sort-item\"&&</div>",
                
         "分类url": "https://www.yingshikong2.com/list/{cateId}-{catePg}.html;;ak",
         "分类": "电影$dianying#电视剧$dianshiju#综艺娱乐$zongyiyule#动漫$dongmandonghua",
