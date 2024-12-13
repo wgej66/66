@@ -40,7 +40,7 @@
                 "影片状态": "备注：&&</div>",
                 "影片类型": "module-info-tag\">&&立即播放",
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
-                 "线路数组": "<li><a href=\"\\#playlist&&</li",
+                "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": ">&&</a",
                 "播放数组": "<ul class=\"myui-content__list sort-list&&</ul",
                 "跳转播放链接": "var now=\"&&\"",
