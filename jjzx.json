@@ -35,7 +35,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-              "数组": "{&&}[不包含:伦理剧]", 
                 "分类url": "https://www.tl39.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#伦理$35"
             }
