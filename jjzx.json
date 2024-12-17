@@ -25,6 +25,16 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$50#伦理剧$8"
             }
         },
+         {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播┃纯净",
+      "type": 3,
+      "api": "csp_Nmyswv",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
         {"key":"可可影视","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","ext":{"线路数组":"source-item\">&&</a>","图片": "data-src=\"&&\"","分类url":"https://www.keke2.app/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"}},
          {
             "key": "应梦影视",
