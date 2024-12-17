@@ -26,6 +26,20 @@
             }
         },
          {
+            "key": "应梦影视",
+            "name": "🧿影梦┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://yingmeng.net/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4"
+            }
+        },
+         {
             "key": "kankan影视",
             "name": "🧿看看屋┃蓝光",
             "type": 3,
