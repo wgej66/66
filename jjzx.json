@@ -178,7 +178,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类url": "https://www.8q8k.com/k/{cateId}--------{catePg}---.html",
         "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
       }
     },
