@@ -743,6 +743,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {"key":"荐片弹幕","name":"荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
+		{"key":"小苹果弹幕","name":"苹果┃弹幕","type":3,"api":"csp_Xpg","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
 {"key":"畅梦","name":"专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
 {"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","jar":"https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/o.jar","searchable":1,"changeable":1},
 {"key":"南瓜影视","name":"南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"./lib/o.jar","searchable":1,"quickSearch":1,"filterable":0},
