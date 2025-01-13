@@ -53,6 +53,20 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30#伦理剧$36"
             }
         },
+         {
+            "key": "四虎影视",
+            "name": "🧿四虎┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://wap.mbzx.com.cn/zixun/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理片$30"
+            }
+        },
         {
             "key": "皮皮虾影视",
             "name": "🧿皮皮虾┃蓝光",
