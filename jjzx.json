@@ -56,6 +56,19 @@
             }
         },
          {
+            "key": "稀影视",
+            "name": "🧿猫眼┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://maoyan8.xyz/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$20#连续剧$38#动漫$56#综艺$49"
+            }
+        },
+         {
       "key": "糯米",
       "name": "🍓糯米┃秒播┃纯净",
       "type": 3,
