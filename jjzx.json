@@ -63,7 +63,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://wap.mbzx.com.cn/zixun/{cateId}-{area}-------{catePg}---{year}.html",
+                "分类url": "https://wap.mbzx.com.cn/zixun/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理片$30"
             }
         },
