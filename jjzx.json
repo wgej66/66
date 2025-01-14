@@ -78,7 +78,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "http://plbzt.com/genre/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$16"
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
             }
         },
          {
