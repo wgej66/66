@@ -67,6 +67,20 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30#伦理剧$36"
             }
         },
+        {
+            "key": "XIAN影视",
+            "name": "🧿XIAN┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.xinanzx.com/xinanzxlist/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$23"
+            }
+        },
          {
             "key": "优美影视",
             "name": "🧿优美┃蓝光",
