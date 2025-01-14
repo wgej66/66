@@ -26,6 +26,20 @@
             }
         },
         {
+            "key": "云影视",
+            "name": "🧿云播┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://xywkzs.com/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$lunli"
+            }
+        },
+        {
             "key": "家里蹲影视",
             "name": "🧿家里蹲┃蓝光",
             "type": 3,
