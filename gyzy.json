@@ -511,8 +511,8 @@
             "api": "csp_XBPQ",
 	  "jar": "./lib/XBPQ.jar",
             "ext": {
-                "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#禁$6"
+                "分类url": "http://m.disc800.com/sort/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5#私密$6"
             }
         },{
       "key": "七夕❤️无广",
