@@ -39,6 +39,20 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$lunli"
             }
         },
+         {
+            "key": "时光影视",
+            "name": "🧿时光┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.time-chicken.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#伦理$17"
+            }
+        },
         {
             "key": "家里蹲影视",
             "name": "🧿家里蹲┃蓝光",
