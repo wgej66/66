@@ -54,6 +54,20 @@
             }
         },
         {
+            "key": "1684影视",
+            "name": "🧿1684┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://1684dy.cc/kankan/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$1#剧集$2#动漫$4#伦理剧$lunli"
+            }
+        },
+        {
             "key": "家里蹲影视",
             "name": "🧿家里蹲┃蓝光",
             "type": 3,
