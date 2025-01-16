@@ -54,8 +54,8 @@
             }
         },
         {
-            "key": "1684影视",
-            "name": "🧿1684┃蓝光",
+            "key": "雪梨影视",
+            "name": "🧿雪梨┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -63,8 +63,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://dydy6.cc/kankan/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#伦理剧$lunli"
+                "分类url": "https://www.time-chicken.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#伦理剧$37"
             }
         },
         {
