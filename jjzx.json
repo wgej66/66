@@ -20,13 +20,11 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-       "数组": "data-video-uid=&&</div>",
+      "直接播放": "1",
+                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
-                "副标题": "</i>&&</span>",
                 "链接": "href=\"&&\"",
-                "简介": "⚠️少看点，再看你就废了！！！",
-
         "分类url": "https://www.333ppx.com/{cateId}/index.html",
         "分类": "电影$yazhouxingai#电视剧$oumeixingai#综艺娱乐$zongyiyule#动漫$dongmandonghua"
       }
