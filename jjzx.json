@@ -21,7 +21,7 @@
       "filterable": 1,
       "ext": {
       "直接播放": "1",
-                "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
+                "播放数组": "plau-ul-list&&</ul>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "链接": "href=\"&&\"",
