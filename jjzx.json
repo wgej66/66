@@ -21,6 +21,7 @@
       "filterable": 1,
       "ext": {
         "主页url": "https://www.333ppx.com/",
+        "直接播放":"1",
        "播放数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
         "播放列表": "<a&&a>",
         "免嗅":"0",
