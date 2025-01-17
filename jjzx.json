@@ -21,7 +21,7 @@
       "filterable": 1,
       "ext": {
         "播放数组": "mod play-list&&</ul",
-        "播放链接": "href='&&'",
+        
         "分类url": "https://www.333ppx.com/{cateId}/index.html",
         "分类": "电影$yazhouxingai#电视剧$oumeixingai#综艺娱乐$zongyiyule#动漫$dongmandonghua"
       }
