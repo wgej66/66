@@ -21,7 +21,7 @@
       "filterable": 1,
       "ext": {
         "播放数组":"mod play-list&&</ul",
-        "跳转播放链接": "var playUrl =\"&&\"",
+        "跳转播放链接": "var playUrl=\"&&\"",
         "链接": "href=\"&&\"",
        "标题": "alt=\"&&\"",
        "直接播放":"1",
