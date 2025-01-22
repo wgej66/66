@@ -11,8 +11,8 @@
             "filterable": 0
         },
         {
-            "key": "龛影影视",
-            "name": "🧿看影┃蓝光",
+            "key": "小丑影视",
+            "name": "🧿小丑┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
