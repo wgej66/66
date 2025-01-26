@@ -450,10 +450,6 @@
       ]
     },
     {"key":"大米星球","name":"🧿大米┃影视","type":3,"api":"csp_AppDaMi","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o2.jar","searchable":1,"quickSearch":0,"filterable":0},
-{"key":"畅梦","name":"🧿专享┃影视","type":3,"api":"./lib/drpy2.min.js","ext":"./y/changmeng.js"},
-{"key":"农民影视","name":"🧿农民┃影视","type":3,"api":"csp_WexNmys","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"changeable":1},
-{"key":"南瓜影视","name":"🧿南瓜┃影视","type":3,"api":"csp_WexNgys","jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":0},
-	{"key":"疯狗影视","name":"🧿疯狗┃影视","type":3,"api":"csp_FengGo","jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xBPQ可可","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/lwlxh/tvhome/raw/master/bhtv.txt","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/可可影视.json"},
 {
       "key": "牛Y", 
