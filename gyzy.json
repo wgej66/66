@@ -377,7 +377,7 @@
                 "搜索标题": "title=\"&&\"",
                 "搜索链接": "href=\"&&\"",
                 "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
-                "分类url": "https://wzznl.buzz/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+                "分类url": "https://wzznl.buzz/?{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
                 "分类": "电影$?1#电视剧$2#禁$11#综艺$3#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
         },
