@@ -344,17 +344,6 @@
                 "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
             }
         },
-     {
-      "key": "摸鱼瓜子",
-      "name": "🧿墨玉┃2K纯净",
-      "type": 3,
-      "api": "http://我不是.摸鱼儿.top/json/js/drpy.min.js",
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/XIYANkong123/536992286/raw/moyuer/guazi.js",
-    "jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2"
-    },
     {
             "key": "卫总影院",
             "name": "🧿卫总|影院",
