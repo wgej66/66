@@ -74,6 +74,15 @@
         "danmu": true
       }
     },
+    {"key": "csp_XBPQ_6V",
+  "name": "4K┃弹幕",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/0606.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"./h/6v.json"} ,
         {
             "key": "天天弹幕",
             "name": "天天｜弹幕",
