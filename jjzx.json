@@ -1,4 +1,4 @@
-{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/spider.jar",
+{"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
 "sites":[
 {
             "key": "js豆瓣1",
@@ -19,18 +19,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext":"./h/6v.json"} ,
-   {
-            "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
-            "type": 3,
-            "api": "csp_Czzy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
         {
             "key": "纽约影视",
             "name": "🧿纽约┃蓝光",
