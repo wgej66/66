@@ -807,7 +807,7 @@
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
                 "分类url": "http://www.sxbjedu.cn/group/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunlipian"
+                "分类": "电影$group/dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunlipian"
             }
         },
          {
