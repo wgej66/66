@@ -76,20 +76,6 @@
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$lunli"
             }
         },
-         {
-            "key": "牛影视",
-            "name": "🧿电影牛┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.dianyingnn.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$lunli"
-            }
-        },
         {
             "key": "17K影视",
             "name": "🧿17K┃蓝光",
