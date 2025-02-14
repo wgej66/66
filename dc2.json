@@ -861,6 +861,7 @@
             "type": 1,
             "api": "https://api.yikanapi.com/api.php/provide/vod/from/yikan",
             "searchable": 1,
+            "playurl": "json:https://jx.xmflv.com/?url=",
             "categories": [
                 "韩国伦理",
                 "日本伦理",
