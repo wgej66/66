@@ -930,6 +930,15 @@
                 "分类": "电影$20#电视剧$21#动漫$22#综艺$23"
             }
         },
+        {
+            "key": "奥卡",
+            "name": "🚀奥卡",
+            "type": 1,
+            "api": "https://aosikazy.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
        {
             "key": "csp_XYBQ",
             "name": "🔞比卡|比卡",
