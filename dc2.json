@@ -13,7 +13,7 @@
             "key": "桃花",
             "name": "🚀桃花",
             "type": 0,
-            "api": "https://jyzyapi.com/provide/vod/at/xml/",
+            "api": "https://thzy1.me/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
