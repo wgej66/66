@@ -1,10 +1,10 @@
 {"spider":"https://gitee.com/lwlxh/tvhome/raw/master/pg.jar",
 "sites":[
     {
-            "key": "ck",
-            "name": "🚀ck",
+            "key": "金鹰",
+            "name": "🚀金鹰",
             "type": 0,
-            "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+            "api": "https://jyzyapi.com/provide/vod/at/xml/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
