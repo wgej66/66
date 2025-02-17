@@ -12,11 +12,11 @@
          {
             "key": "快餐",
             "name": "🚀快车",
-            "type": 0,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/at/xml/",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0
+            "filterable": 1
         },
         {
             "key": "桃花",
