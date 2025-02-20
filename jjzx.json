@@ -898,6 +898,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+              "主页url":"http://niersi-ceramics.com/",
                 "分类url": "http://niersi-ceramics.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$4"
             }
