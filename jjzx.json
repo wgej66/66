@@ -898,8 +898,14 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+              "规则名": "短剧屋",
+    "规则作者": "",
+    "请求头参数": "手机",
+    "网页编码格式": "UTF-8",
+    "图片是否需要代理": "0",
+    "是否开启获取首页数据": "1",
               "主页url":"http://niersi-ceramics.com/",
-                "分类url": "http://niersi-ceramics.com/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "http://niersi-ceramics.com/type/{cateId}-{catePg}.html",
                 "分类": "电影$1#连续剧$2#动漫$4"
             }
         },
