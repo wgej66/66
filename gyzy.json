@@ -791,7 +791,7 @@
       "key": "IKUN资源",
       "name": "🧿爱看2k┃微广",
       "type": 1,
-      "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
       "categories": [
         "动作片",
         "喜剧片",
