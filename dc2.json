@@ -46,7 +46,7 @@
       "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "ext": {
         "首页":"https://ptt.red/p/1",
-        "数组":"class=\"card-body&&</div",
+        "数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
         "图片":"src=\"&&\"",
         "标题": "alt=\"&&\"",
         "副标题": "class=\"badge badge-success\">&&</span>",
