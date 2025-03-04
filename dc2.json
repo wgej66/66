@@ -26,6 +26,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
+        }, {
+            "key": "XHP",
+            "name": "高清小黄片",
+            "type": 3,
+            "api": "csp_XBPQ",
+     "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "ext": {
+                "主页url": "https://www.jcsfz.top/",
+                "分类": "高清一区$1#高清二区$2#高清三区$3#高清福利$33",
+                "分类url": "https://www.jcsfz.top/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+            }
         },
        {
             "key": "csp_XYBQ",
