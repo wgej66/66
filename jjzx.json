@@ -29,7 +29,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.5.movie/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.5.movie/vodtype/{cateId}--------{catePg}---.html",
                 "分类": "电影$20#剧集$21#动漫$22#综艺$23#短剧$24"
             }
         },
