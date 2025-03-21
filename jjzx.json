@@ -19,20 +19,6 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext":"./h/6v.json"} ,
-  {
-            "key": "5点影视",
-            "name": "🧿5点┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.5.movie/vodtype/{cateId}--------{catePg}---.html",
-                "分类": "电影$20#剧集$21#动漫$22#综艺$23#短剧$24"
-            }
-        },
         {
             "key": "纽约影视",
             "name": "🧿纽约┃蓝光",
