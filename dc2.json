@@ -45,11 +45,10 @@
       "api": "csp_XBPQ",
       "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
       "ext": {
-    "播放数组": "默认--class=\"seqs mb-4\">&&</div>||电影--class=\"position-relative\">&&</li",
+    "播放数组": "默认--class=\"seqs mb-4\">&&</div>||电影--class=\"nav-item\">&&</li",
         "首页":"电视剧$30",
         "线路数组":"class=\"nav-item\">&&</li",
         "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
-        "标题": "alt=\"&&\"",
  "多线数组": "class=\"nav-item\">&&</li",
  "多线链接": "href=\"&&\"",
         "播放链接": "href=\"&&\"",
