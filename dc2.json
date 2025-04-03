@@ -53,6 +53,7 @@
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
       }
 },
+{"key":"csp_xBPQ_四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./h/四虎.json","jar":"./jar/Yoursmile2.jar"},
        {
             "key": "csp_XYBQ",
             "name": "🔞比卡|比卡",
