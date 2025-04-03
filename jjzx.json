@@ -357,21 +357,16 @@
     },
         {"key":"可可影视","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","ext":{"线路数组":"source-item\">&&</a>","图片": "data-src=\"&&\"","分类url":"https://www.keke2.app/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"}},
          {
-            "key": "应梦影视",
-            "name": "🧿大米┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-              "主页url": "https://www.cewezmlqm.shop/index/home.html",
-              "图片": "data-original=\"&&\"",
-                "分类url": "https://www.cewezmlqm.shop/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#连续剧$21#动漫$22#综艺$23#伦理$35"
-            }
-        },
+			"key": "hipy_js_大米影院",
+			"name": "🧿大米┃影院",
+			"type": 3,
+			"api": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js"
+		},
          {
             "key": "kankan影视",
             "name": "🧿看看屋┃蓝光",
