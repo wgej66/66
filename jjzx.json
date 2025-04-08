@@ -35,6 +35,21 @@
             }
         },
         {
+            "key": "看片影视",
+            "name": "🧿狂人┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+              "图片": "data-src=\"&&\"",
+                "分类url": "https://www.kpkuang.sbs/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$37#伦理剧$26"
+            }
+        },
+        {
             "key": "好看影视",
             "name": "🧿好看吧┃蓝光",
             "type": 3,
