@@ -44,7 +44,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-              "播放数组": "class=\"fed-deta-play fed-hide-xs fed-rims-info fed-btns-info fed-btns-green fed-col-xs4\">&&</a>",
+              "播放数组": "class=\"uk-margin-small\">&&</div>",
                 "分类url": "https://www.kpkuang.sbs/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$37#伦理剧$26"
             }
