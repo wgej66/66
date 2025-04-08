@@ -44,7 +44,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-              "图片": "data-src=\"&&\"",
                 "分类url": "https://www.kpkuang.sbs/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$37#伦理剧$26"
             }
