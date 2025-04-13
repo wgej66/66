@@ -177,20 +177,6 @@
             }
         },
         {
-            "key": "开心影视",
-            "name": "🧿开心┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.cscrks.com/zixun/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30#伦理剧$36"
-            }
-        },
-        {
             "key": "兵工厂影视",
             "name": "🧿兵工厂┃蓝光",
             "type": 3,
@@ -201,7 +187,7 @@
             "filterable": 1,
             "ext": {
                 "分类url": "http://www.yaohuatgb.com/zixun/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30"
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$30#伦理$36"
             }
         },
         {
@@ -257,8 +243,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "http://plbzt.com/genre/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+                "分类url": "http://plbzt.com/lists/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理$30"
             }
         },
         {
@@ -271,13 +257,13 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "http://yu.hantujiuyuan.com/mvlist/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$30"
+                "分类url": "http://yu.hantujiuyuan.com/vodgroup/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$16"
             }
         },
          {
             "key": "糯米影视",
-            "name": "🧿糯米┃蓝光",
+            "name": "🧿糯米电信┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -304,21 +290,6 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
             }
         },
-        {
-            "key": "益达影视",
-            "name": "🧿益达┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-                "分类url": "https://www.mydys1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
-            }
-        },
          {
             "key": "稀影视",
             "name": "🧿猫眼┃蓝光",
@@ -332,29 +303,7 @@
                 "分类": "电影$20#连续剧$38#动漫$56#综艺$49"
             }
         },
-         {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播┃纯净",
-      "type": 3,
-      "api": "csp_Nmyswv",
-       "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
         {"key":"可可影视","name":"🧿可可┃影视","type":3,"api":"csp_XBPQ","jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar","ext":{"线路数组":"source-item\">&&</a>","图片": "data-src=\"&&\"","分类url":"https://www.keke2.app/show/{cateId}-{class}-{area}--{year}-3-{catePg}.html","分类":"电视剧$2#电影$1#动漫$3#综艺$4#短剧$6"}},
-         {
-			"key": "hipy_js_大米影院",
-			"name": "🧿大米┃影院",
-			"type": 3,
-			"api": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://codeberg.org/lw0822/bhapi/raw/branch/master/drpy_js/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js"
-		},
          {
             "key": "kankan影视",
             "name": "🧿看看屋┃蓝光",
@@ -369,17 +318,6 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#伦理$35"
             }
         },
-         {
-      "key": "csp_影業",
-      "name": "酒吧┃影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-      "ext": {
-        "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
-        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-      }
-    },
         {
       "key": "花姐影院",
       "name": "花姐┃影视",
@@ -410,7 +348,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "分类url": "https://www.kanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
+        "分类url": "https://www.ikanbd.com/s/{cateId}-{area}-{by}------{catePg}---{year}.html",
         "分类": "电影$movie#连续剧$series#动漫$anime#综艺$variety#动画片$animation#纪录片$documentary#电影解说$jieshuo#网络短剧$skit#体育$sports",
         "嗅探词": ".m3u8#.m3u8?#v3.huoshanvod.com#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4#video_mp4",
         "过滤词": "/hls/#php"
@@ -452,7 +390,7 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "分类url": "https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html",
+        "分类url": "https://www.8q8k.com/k/{cateId}--------{catePg}---.html",
         "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
       }
     },
