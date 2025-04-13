@@ -641,7 +641,7 @@
         },
          {
             "key": "322影视",
-            "name": "🧿瓜瓜┃蓝光",
+            "name": "🧿瓜瓜?┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
              "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -650,23 +650,8 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-                "分类url": "https://www.qpg5.net/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.qpgyy5.net/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-            }
-        },
-        {
-            "key": "99影视",
-            "name": "🧿99┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-                "分类url": "http://www.sxbjedu.cn/group/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$group/dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#伦理$lunlipian"
             }
         },
          {
@@ -687,7 +672,7 @@
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
                 "分类url": "https://www.1haotu.com/zixun/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#伦理$30"
+                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
         {
@@ -729,7 +714,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
-                "分类url": "http://www.tszhongteng.com/vodtype/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "http://www.tszhongteng.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$35"
             }
         },
@@ -750,8 +735,8 @@
     "图片是否需要代理": "0",
     "是否开启获取首页数据": "1",
               "主页url":"http://niersi-ceramics.com/",
-                "分类url": "http://niersi-ceramics.com/type/{cateId}-{catePg}.html",
-                "分类": "电影$1#连续剧$2#动漫$4"
+                "分类url": "http://niersi-ceramics.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
             }
         },
          {
@@ -764,7 +749,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.wwstcs.com/class/{cateId}-{catePg}.html",
+                "分类url": "https://www.ggdy.net/class/{cateId}-{catePg}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#剧情$11"
             }
         },
