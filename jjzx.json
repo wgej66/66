@@ -21,7 +21,7 @@
   "ext":"./h/6v.json"} ,
         {
             "key": "纽约影视",
-            "name": "🧿纽约┃蓝光",
+            "name": "🧿纽约┃蓝光?",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -108,7 +108,7 @@
         },
          {
             "key": "时光影视",
-            "name": "🧿时光┃蓝光",
+            "name": "🧿时光┃蓝光?",
             "type": 3,
             "api": "csp_XBPQ",
              "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
@@ -149,34 +149,6 @@
             }
         },
         {
-            "key": "家里蹲影视",
-            "name": "🧿家里蹲┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://jl-d.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$3#综艺$5#短剧$4#伦理剧$lunlipian"
-            }
-        },
-        {
-            "key": "兔兔影视",
-            "name": "🧿兔兔┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.sdaiou.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$33"
-            }
-        },
-        {
             "key": "龛影影视",
             "name": "🧿看影┃蓝光",
             "type": 3,
@@ -200,7 +172,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://xingkong123.com/xktype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "https://www.xingkong123.com/xktype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
                 "分类": "电影$1#剧集$2#动漫$4#综艺$3#伦理剧$20"
             }
         },
