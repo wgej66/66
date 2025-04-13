@@ -390,8 +390,8 @@
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "分类url": "https://www.8q8k.com/k/{cateId}--------{catePg}---.html",
-        "分类": "电影$dy#电视剧$dsj#综艺$zy#动漫$dm"
+        "分类url": "https://www.8q8k.com/k/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$4#动漫$3"
       }
     },
         {
