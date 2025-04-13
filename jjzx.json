@@ -526,8 +526,9 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
+                "图片": "data-src=\"&&\"",
                 "分类url": "https://www.dami6fy.wiki/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$20#电视剧$21#动漫$22#综艺$35"
+                "分类": "电影$20#电视剧$21#动漫$22#综艺$23#伦理$35"
             }
         },
         {
@@ -555,7 +556,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://www.cfkj86.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
+                "分类url": "https://0996zp.com/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}",
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3"
             }
         },
@@ -598,7 +599,7 @@
             "filterable": 1,
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"col-pd text-collapse content&&</div>",
-                "分类url": "https://www.pkcom.cc/vodtype/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.pkcom.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
@@ -634,7 +635,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
-                "分类url": "https://www.phdy1.cc/h/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "https://www.phdy2.cc/h/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
                 "分类": "电影$dy#连续剧$dsj#综艺$zy#动漫$dm#伦理$fl"
             }
         },
