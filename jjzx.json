@@ -88,7 +88,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "https://xywkzs.com/show/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "https://xywkzs.com/show/{cateId}-{catePg}.html",
                 "分类": "电影$dy#剧集$dianshi#动漫$donhmsn#综艺$zongyi#伦理剧$lunli"
             }
         },
