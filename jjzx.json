@@ -19,6 +19,7 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext":"./h/6v.json"} ,
+   {"key":"drpy_mimi","name":"咪咪┃影视","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/Bili.json"},
         {
             "key": "纽约影视",
             "name": "🧿纽约┃蓝光?",
