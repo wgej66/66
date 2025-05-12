@@ -35,6 +35,35 @@
                 "version": ""
             }
         },
+        {
+            "key": "电影",
+            "name": "电影｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar": "https://try.gogs.io/guot54/bh/raw/main/spider.jar",
+            "ext": {
+                "url": "http://111.180.198.40:1110",
+                "dataKey": "asgcxhjkts124573",
+                "dataIv": "asgcxhjkts124573",
+                "deviceId": "298e5fe29c74b35aabb9836ee2f6f449f",
+                "version": "701"
+            }
+        },
+         {
+            "key": "二三",
+            "name": "二三｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "jar": "https://try.gogs.io/guot54/bh/raw/main/spider.jar",
+            "ext": {
+                "url": "http://cs4.123ysw.com",
+                "dataKey": "d3238930e3ae0724",
+                "dataIv": "d3238930e3ae0724",
+                "jxurl": "https://123ysw.com"
+            }
+        },
          {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
   "type": 3,
