@@ -11,9 +11,9 @@
         },
          {
             "key": "快餐",
-            "name": "🚀快车",
+            "name": "🚀JKUN",
             "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+            "api": "https://jkunzyapi.com/api.php/seaxml/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
