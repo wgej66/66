@@ -20,6 +20,20 @@
            "filterable": 1,
            "ext": "https://cs.hgyx.vip/api2/api.php/app/"
       },
+      {
+            "key": "彼岸",
+            "name": "彼岸｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://172.247.44.217:30012",
+                "dataKey": "JLa1oRdL6+eK7@M)",
+                "dataIv": "JLa1oRdL6+eK7@M)",
+                "deviceId": "",
+                "version": ""
+            }
+        },
          {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
   "type": 3,
