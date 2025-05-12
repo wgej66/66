@@ -19,6 +19,15 @@
             "filterable": 1
         },
         {
+            "key": "gay",
+            "name": "🚀GAY",
+            "type": 1,
+            "api": "https://gayapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "桃花",
             "name": "🚀桃花",
             "type": 0,
@@ -593,7 +602,7 @@
             "key": "奥卡",
             "name": "🚀奥卡",
             "type": 1,
-            "api": "https://aosikazy10.com/api.php/provide/vod/",
+            "api": "https://aosikazy.com/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
