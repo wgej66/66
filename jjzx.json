@@ -26,6 +26,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
+            "jar": "https://try.gogs.io/guot54/bh/raw/main/spider.jar",
             "ext": {
                 "url": "http://172.247.44.217:30012",
                 "dataKey": "JLa1oRdL6+eK7@M)",
