@@ -11,19 +11,15 @@
             "filterable": 0
         },
         {
-            "key": "HG影视",
-            "name": "🧿HG┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://hong.hgyx.vip/index.php/vod/show/id/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "4K电影$1#4K电视剧$2#4K动漫$4#综艺$3"
-            }
-        },
+          "key": "HG影视",
+          "name": "HG影视｜影视",
+         "type": 3,
+           "api": "csp_AppYsV2",
+           "searchable": 1,
+           "quickSearch": 1,
+           "filterable": 1,
+           "ext": "https://cs.hgyx.vip/api2/api.php/app/"
+      },
          {"key": "csp_XBPQ_6V",
   "name": "🌙健教4K",
   "type": 3,
