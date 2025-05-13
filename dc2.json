@@ -30,7 +30,7 @@
         {
             "key": "botiantang",
             "name": "🚀博天堂",
-            "type": 1,
+            "type": 0,
             "api": "http://bttcjz.com/inc/sapi.php",
             "searchable": 1,
             "quickSearch": 1,
@@ -39,7 +39,7 @@
         {
             "key": "环宇",
             "name": "🚀环宇",
-            "type": 1,
+            "type": 0,
             "api": "http://hysscj.com/inc/sapi.php",
             "searchable": 1,
             "quickSearch": 1,
