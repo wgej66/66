@@ -34,7 +34,7 @@
             "api": "http://bttcjz.com/inc/sapi.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "环宇",
@@ -43,7 +43,7 @@
             "api": "http://hysscj.com/inc/sapi.php",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 0
         },
         {
             "key": "桃花",
