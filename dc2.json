@@ -28,10 +28,28 @@
             "filterable": 1
         },
         {
+            "key": "botiantang",
+            "name": "🚀博天堂",
+            "type": 1,
+            "api": "http://bttcjz.com/inc/sapi.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "环宇",
+            "name": "🚀环宇",
+            "type": 1,
+            "api": "http://hysscj.com/inc/sapi.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "桃花",
             "name": "🚀桃花",
             "type": 0,
-            "api": "https://thzy4.me/api.php/provide/vod/at/xml",
+            "api": "https://thzy8.me/api.php/provide/vod/at/xml",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0
