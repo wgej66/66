@@ -690,7 +690,7 @@
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
                 "线路数组": "data-dropdown-value=&&</div>",
                 "线路标题": "<span>&&</span>",
-                "分类url": "https://www.phdy3.cc/h/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类url": "http://www.phdy3.cc/h/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
                 "分类": "电影$dy#连续剧$dsj#综艺$zy#动漫$dm#伦理$fl"
             }
         },
