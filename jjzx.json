@@ -11,18 +11,20 @@
             "filterable": 0
         },
         {
-            "key": "播剧啊影视",
-            "name": "🎃播剧啊┃影视",
+            "key": "贝贝影院",
+            "name": "小呗┃影视",
             "type": 3,
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "分类url": "https://www.boju.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#直播$Live#短剧$duanju#伦理$lunli"
+                "线路二次截取": "<ul class=\"nav nav-tabs ff-playurl-tab&&</ul>",
+                "线路数组": "<li&&</li>",
+                "线路标题": ">&&</a>",
+                "播放数组": "<ul class=\"list-unstyled row text-center tab-pane ff-playurl active fade in ff-playurl-tab-1\"&&</ul>",
+                "播放标题": ">&&</a>",
+                "分类url": "http://www.nanxiaoba.com/type/{cateId}-{class}-{area}-{year}---addtime-{catePg}.html",
+                "分类": "最新电影$1#连续剧$2#综艺$4#动漫$3#短剧$5$#午夜电影$6",
+                "地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大"
             }
         },
         {
