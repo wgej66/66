@@ -196,22 +196,6 @@
             "filterable": 1,
             "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "防走丢": "https://www.kankanwu.vip/",
-                "主页url": "https://www.kankanwu.cc/",
-                "数组": "class=\"stui-vodlist__box\"&&</a>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "right\">&&</span>",
-                "链接": "href=\"&&\"",
-                "播放数组": "playlist clearfix&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "嗅探词": "vip.ffzy-video#vip.ffzy-play7#.m3u8#index.m3u8#mixed.m3u8",
-                "线路数组": "class=\"stui-vodlist__head\"&&</div>",
-                "线路标题": "<h3>&&</h3>",
                 "分类url": "https://www.kankanwu.cc/vodtype/{cateId}_{catePg}.html",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4"
             }
