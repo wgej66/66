@@ -38,7 +38,7 @@
         "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
         "搜索url": "https://wap.maicai.la/search/{wd}.html",
         "分类": "电影$dy#电视剧$dsj#动漫$dm#综艺$zy#短剧$dj",
-        "分类url": "https://wap.maicai.la/{cateId}_{catePg}.html"
+        "分类url": "https://wap.maicai.la/mc/{cateId}_{catePg}.html"
       }},
 {
       "key": "番茄",
