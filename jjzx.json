@@ -28,6 +28,18 @@
             }
         },
         {
+            "key": "👁新皮皮影院",
+            "name": "👁新皮皮影院",
+            "type": 3,
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "分类url": "https://www.xzweiheng.com/vodshow/{cateId}-{class}-------{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理👙$33#短剧$34"
+            }
+        },
+        {
             "key": "🐜红蚂蚁影院",
             "name": "🐜红蚂蚁影院",
             "type": 3,
