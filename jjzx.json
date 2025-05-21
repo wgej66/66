@@ -186,8 +186,8 @@
             }
         },
         {
-            "key": "看dy",
-            "name": "看dy",
+            "key": "步道",
+            "name": "步道",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
