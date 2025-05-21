@@ -28,6 +28,29 @@
             }
         },
         {
+            "key": "🐜红蚂蚁影院",
+            "name": "🐜红蚂蚁影院",
+            "type": 3,
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/大猫咪/xyqxbpq.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "副标题": "✨+text\">&&</p>",
+                "简介": "✨为你介绍剧情+简介&&</div",
+                "播放数组": "shoutu-playlist sort-list playlist\">&&</ul>",
+                "播放列表": "<a&&/a>",
+                "播放标题": "✨+>&&<",
+                "播放链接": "href=\"&&\"",
+                "线路数组": "<div class=\"panel\">&&</div>",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "https://www.xshczl.com/search/{wd}----------{pg}---.html",
+                "搜索模式": "1",
+                "线路标题": "✨推荐+>&&</",
+                "分类url": "https://www.xshczl.com/show/{cateId}---{class}-----{catePg}---.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$33"
+            }
+        },
+        {
             "key": "星云影视",
             "name": "星云☁️影视",
             "type": 3,
