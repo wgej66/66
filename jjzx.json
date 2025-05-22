@@ -259,30 +259,38 @@
                 "分类值": "1&2&3&4&34"
             }
         },
-        {
-            "key": "ytys",
-            "name": "YY┃雅图(XBPQ)",
+         {
+            "key": "23影视",
+            "name": "23影视(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
             "ext": {
-                "数组": "<td&&</a>",
-                "图片": "img src=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "YY专享+line-height\">&&<",
-                "搜索url": "http://www.yatu.tv:2082/m/index.asp?sort=&keyword={sort=&keyword}&x=0&y=0",
-                "线路数组": "<td&&</div>",
-                "线路标题": "YY专享+<span>&&</span>",
-                "播放数组": "class=\"tr_flv&&</div>",
-                "分类url": "http://www.yatu.tv:2082/m-{cateId}/{catePg}.html",
-                "分类": "动漫&电影&电视剧",
-                "分类值": "dm&dy&tv"
+                "简介": "小林子为您剧情介绍:+fed-tabs-boxs\">&&剧情结束",
+                "副标题": "更新&&</span>",
+                "线路数组": "fed-tabs-btns fed-part-curs fed-font-xvi fed-mart-v fed-text-green\">&&</li>",
+                "分类url": "http://v.9wenwen.com/search.php?page={catePg}&searchtype=5&tid={cateId}&jq={class}&area={area}&year={year}",
+                "分类": "短剧$41#电视剧$2#电影$1#动漫$4#综艺$3"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
+        {
+            "key": "来看影视",
+            "name": "来看影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "简介": "小林子为您剧情介绍:+text cor3\">&&</div>",
+                "数组": "public-list-box&&</div></div>",
+                "图片": "data-src=\"&&\"",
+                "标题": "title=\"&&\">",
+                "副标题": "cor5 hide ft2\">&&</div>",
+                "线路数组": "fa ds-dianying\">&&</a>",
+                "线路标题": "&nbsp;&&<[不包含:新自建.0]",
+                "分类url": "https://lkvod.me/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            },
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+        }
         {
             "key": "万佳影院",
             "name": "🀇万佳┃影院(XBPQ)",
