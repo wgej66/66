@@ -28,6 +28,22 @@
             }
         },
         {
+            "key": "哈哈影视",
+            "name": "😄哈哈┃影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.hahads.com/show/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理$20"
+            }
+        },
+        {
             "key": "👁新皮皮影院",
             "name": "👁新皮皮影院",
             "type": 3,
