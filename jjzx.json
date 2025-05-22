@@ -116,6 +116,31 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
         {
+            "key": "XBPQ_4k影视",
+            "name": "4K影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主演": "主演：&&</div>",
+                "数组": "<a&&/div></div></a>",
+                "免嗅": "1",
+                "副标题": "note\">&&<",
+                "搜索url": "/index.php/vod/search.html?wd={wd}",
+                "搜索数组": "module-card-item-class\">&&</a>",
+                "搜索副标题": "note\">&&</div>",
+                "线路数组": "data-dropdown-value=&&</div>[不包含:海外用户专用（国内需翻墙）]",
+                "线路标题": "传说+<span>&&</small>[替换:</span><small>>>💕共]+集💕",
+                "播放数组": "<div class=\"module-play-list-content&&</div>",
+                "分类url": "https://4k4k.live/vodshow/{cateId}--{by}------{catePg}---{year}.html",
+                "分类": "电影$20#电视剧$21#综艺$22#动漫$23#体育$52",
+                "筛选": "1"
+            },
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+        },
+        {
             "key": "csp_XBPQ_看戏影视",
             "name": "看戏影视",
             "type": 3,
