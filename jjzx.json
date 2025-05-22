@@ -240,32 +240,24 @@
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
           {
-            "key": "界影视",
-            "name": "界影视(XBPQ)",
+            "key": "努努影院",
+            "name": "🧎努努┃影院(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "filterable": 1,
             "ext": {
-                "主页url": "https://www.hkybqufgh.com/",
-                "简介": "</label>&&</div>",
-                "影片类型": "tags\">&&director\">",
-                "影片状态": "bottom\">&&</div>",
-                "二次截取": "videoList\":\\[&&\\]",
-                "数组": "{&&}[不包含:伦理剧]",
-                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",",
-                "标题": "vodName\":\"&&\"",
-                "副标题": "vodRemarks\":\"&&\"",
-                "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,",
-                "导演": "导演:</div>&&主演",
-                "主演": "主演:</div>&&别名",
-                "线路标题": "（catvod.com）",
-                "播放数组": "listitem\">&&info\">",
-                "播放列表": "<a&&</a>",
-                "倒序": "否",
-                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
-            },
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
+                "简介": "product-excerpt\">剧情简介：&&</span>",
+                "线路数组": "<dt&&/dt>",
+                "线路标题": ">&&<",
+                "播放数组": "playlist clearfix&&</div>",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "https://www.nnvod.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影&电视剧&综艺&动漫&伦理片",
+                "分类值": "1&2&3&4&34"
+            }
         },
         {
             "key": "万佳影院",
