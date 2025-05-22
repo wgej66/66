@@ -51,6 +51,7 @@
                 "数组": "class=\"stui-vodlist__thumb lazyload\"&&</div>",
                 "线路数组": "如果当前播放组不能正常播放&&</h3>",
                 "线路标题": "传说接口",
+                "播放列表": "<li&&</li>[不包含:1❤1播]",
                 "分类": "电影$dianying#连续剧$dianshiju#动漫$dongman#综艺$zongyi#午夜$vlli",
                 "分类url": "https://www.hbdfqc.com/ztt/{cateId}-{catePg}.html",
                 "免嗅": "1"
