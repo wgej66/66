@@ -44,7 +44,7 @@
       "name": "候选03影院┃影库",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",   
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
