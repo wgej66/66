@@ -90,7 +90,7 @@
                 "嗅探词": ".m3u8#.mp4#.flv#.mp3#.m4a",
                 "搜索url": "https://languangdao4.com/search-{wd}---id----------.html",
                 "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#剧情$lunli",
-                "分类url": "https://languangdao2.com/show-{cateId}--{by}------{catePg}---.html"
+                "分类url": "https://languangdao4.com/show-{cateId}--{by}------{catePg}---.html"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
