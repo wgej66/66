@@ -89,7 +89,7 @@
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理$33",
                 "分类url": "https://www.tomato-china.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html"
             }
         },
