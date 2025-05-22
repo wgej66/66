@@ -52,7 +52,7 @@
                 "线路数组": "如果当前播放组不能正常播放&&</h3>",
                 "线路标题": "传说接口",
                 "分类": "电影$dianying#连续剧$dianshiju#动漫$dongman#综艺$zongyi#午夜$vlli",
-                "分类url": "https://www.hbdfqc.com/ztt/{cateId}/",
+                "分类url": "https://www.hbdfqc.com/ztt/{cateId}_{catePg}/",
                 "免嗅": "1"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
