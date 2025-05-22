@@ -182,36 +182,9 @@
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
-        {
-      "key": "秀儿影视",
-      "name": "💫秀儿影视",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
-      "ext": {
-        "简介": "style=\"display: none;\">&&</p>",
-        "搜索url": "https://www.xiuer.pro/vod/search/?wd={wd}",
-        "搜索数组": "video-info&&loading",
-        "图片": "src=\"&&\"",
-        "数组": "module-item-titlebox&&<script>",
-        "标题": "title=\"&&\"",
-        "搜索标题": "title=\"&&\"",
-        "搜索副标题": ">&&</a>",
-        "线路数组": "tab-item\"&&</div>",
-        "线路标题": "<span>&&</small>[替换:</span><small>>>✮更新]",
-        "播放数组": "<div class=\"scroll-content\">&&</div>",
-        "播放标题": "<span>&&</span>",
-        "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju#纪录片$jilupian",
-        "分类url": "https://xiuer.pro/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}/"
-      }
-    },
-    {
-      "key": "csp_XBPQ_gaoqingzaix",
-      "name": "🦆高清低端影视在线",
+       {
+      "key": "csp_XBPQ_zhuijuba",
+      "name": "🎃追剧影视",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -219,8 +192,36 @@
       "filterable": 1,
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
-        "分类url": "https://gxyj.org/gxvodshow/{cateId}--------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#今日更新$new"
+        "分类url": "https://zjuba.vip/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_quanjiw",
+      "name": "🎃全集影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "ext": {
+        "分类url": "https://www.yijia5.com/{cateId}-all-all-{year}-time_{catePg}.html",
+        "分类": "电影$dianying#电视剧$dianshij#综艺$zongyi#动漫$dongman#更新$new"
+      }
+    },
+    {
+      "key": "csp_XBPQ_huoniaoys",
+      "name": "👀火鸟影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "ext": {
+        "分类url": "https://www.isantai.com/stshow/{cateId}--------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#更新$new"
       }
     },
         {
