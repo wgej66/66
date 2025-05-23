@@ -57,6 +57,22 @@
             }
         },
         {
+  "key": "csp_yiq",
+  "name":"🥑木瓜影视",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "线路标题": "小橙子接口+src=*>&&<[替换:线路1>>小橙子接口1#线路2>>小橙子接口2#线路3>>小橙子接口3#线路4>>小橙子接口4#线路5>>小橙子接口5#线路6>>小橙子接口6]",
+           "分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+           "分类": "电影&电视剧&综艺&动漫&伦理",
+           "分类值": "dianying&lianxuju&zongyi&dongman&yanqingpian"
+        }
+},	  
+        {
             "key": "小鸭影音",
             "name": "小鸭影音(XBPQ)",
             "type": 3,
