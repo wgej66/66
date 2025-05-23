@@ -1111,7 +1111,7 @@
                 "图片": "data-src=\"&&\"",
                 "副标题": "module-item-text\">&&</div>",
                 "链接": "href=\"&&\"",
-                "分类url": "https://www.wjys.cc/vodshow/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类url": "https://www.wanjia2.com/s/id/{cateId}/page/{catePg}.html",
                 "分类": "电影$dy#电视剧$juji#综艺$zongyi#动漫$dongman"
             }
         },
