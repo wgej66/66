@@ -204,7 +204,7 @@
                 "线路标题": ".:影视:.+>&&</a>",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "主页url": "https://www.edelholz.cn/",
-                "分类url": "https://www.edelholz.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类url": "https://www.edelholz.cn/vodtype/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#动画片$donghuapian#邵氏电影$shaoshidianying#短剧$duanju",
                 "类型": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian||国产剧$guochanju#香港剧$xianggangju#台湾剧$taiwanju#日本剧$ribenju#韩国剧$hanguoju#泰国剧$taiguoju#欧美剧$oumeiju#海外剧$haiwaiju||大陆综艺$daluzongyi#港台综艺$gangtaizongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi||国产动漫$guochandongman#港台动漫$gangtaidongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#海外动漫$haiwaidongman||空||空||女频恋爱$nvpinlianai#反转爽剧$fanzhuanshuangju#年代穿越$niandaichuanyue#古装仙侠$guzhuangxianxia#现代都市$xiandaidushi#脑洞悬疑$naodongxuanyi"
             },
@@ -267,7 +267,7 @@
                 "线路标题": ".:影视:.+>&&</",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "http://lymyx.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30#午夜$36"
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
         },
@@ -372,7 +372,7 @@
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
-                "主页url": "https://www.ths864.com/",
+                "主页url": "http://www.ths864.com/",
                 "二次截取": "module-items\"&&id=\"page[替换:module-footer>>module-item]",
                 "数组": "module-item-pic&&module-item\"",
                 "标题": "title=\"在线播放&&\"",
@@ -386,7 +386,7 @@
                 "线路数组": "class=\"module-tab-item tab-item&&</div>",
                 "线路标题": ".:影视:.+<span>&&</span>",
                 "跳转播放链接": "urlDecode(Base64(var player_*url\":\"&&\"))",
-                "分类url": "https://www.ths864.com/wbs/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类url": "http://www.ths864.com/wbs/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
                 "分类": "电影$WbMovie#电视剧$WbTv#动漫$WbCartoon#综艺$WbVariety#理论片$Sex"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
@@ -491,24 +491,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "http://www.ymhgj.cn/",
-                "首页": "120",
-                "起始页": "1",
-                "数组": "lazyload\"&&</div>",
-                "标题": "title=\"&&\"",
-                "图片": "data-original=\"&&\"",
-                "副标题": "right\">&&<",
-                "链接": "href=\"&&\"",
-                "简介": "简介：&&</p >",
-                "线路数组": "playlist&&</li>",
-                "线路标题": ".:影视:.+>&&<",
-                "播放二次截取": "",
-                "播放数组": "playlist clearfix column8 overflow\">&&</ul>",
-                "播放列表": "<a&&/a>",
-                "播放标题": ">&&<",
-                "播放链接": "href=\"&&\"",
                 "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "http://mfgsjigv.ymhgj.cn/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman#午夜剧场$lunlipian#爽文短剧$wenduan#电影解说$jieshuo",
@@ -525,13 +507,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "播放数组": "class=\"clearfix&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "线路数组": "class=\"mod-head clearfix&&</div>",
-                "线路标题": ".:影视:.+>&&</span>[不包含:猜你喜欢]",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "https://m.suanban.vip/shaixuan/{cateId}--------{catePg}---{year}.html",
                 "分类": "电影$1#电视剧$2#动漫$4#动画电影$32#伦理片$23",
                 "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#战争片$12#剧情片$11#4k超清$38#邵氏老电影$33#记录片$34国产剧$13#韩剧$15#美剧$16#港剧$14#台剧$21#泰剧$22#日剧$20#海外剧$35#爽文短剧$37空||空"
@@ -575,20 +550,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "数组": "class=\"video-pic loading&&</li>",
-                "标题": "title=\"&&\"",
-                "副标题": "bg-r\">&&</span>",
-                "图片": "data-original=\"&&\"",
-                "链接": "href=\"&&\"",
-                "播放数组": "class=\"clearfix fade&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "线路数组": "class=\"gico*playlist&&</li>",
-                "线路标题": ".:影视:.+>&&</a>",
-                "跳转播放链接": "var player_*\"url\":\"&&\"",
                 "分类url": "http://m.hakkaswine.cn/zixun/{cateId}-{catePg}.html[http://m.hakkaswine.cn/zixun/{cateId}.html]",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#伦理$36",
                 "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#古装片$29#犯罪片$13国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28空||空"
@@ -709,14 +670,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "gb2312",
-                "主页url": "http://m.aogetu.com/wuyejuchang/",
-                "播放数组": "plau-ul-list&&</ul>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href='&&'",
-                "播放标题": ".:影视:.+blank\">&&<",
-                "嗅探词": "index.m3u8?",
                 "分类url": "http://m.aogetu.com/{cateId}/{class}/index{catePg}.html[http://m.aogetu.com/{cateId}/{class}/]",
                 "分类": "电影$dianying#电视剧$dianshiju#午夜剧场$wuyejuchang#套图$taotu#综艺娱乐$zongyiyule#动漫动画$dongmandonghua#音乐MV$yuleMV",
                 "剧情": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#纪录片$jilupian#VIP$fuli#动画$dhdy国产剧$guochanju#欧美剧$oumeiju#香港剧$hongkongju#韩国剧$hanguoju#台湾剧$taiwanju#日本剧$ribengju#泰国剧$taiguoju#海外剧$haiwaiju#微短剧$duanju伦理片$lunli#写真$xiezhen#主播$zhubo大陆综艺$daluzongyi#香港综艺$hongkongzongyi#台湾综艺$taiwanzongyi#日韩综艺$rihanzongyi#欧美综艺$oumeizongyi#其他综艺$qitazongyi日本动漫$ribendongman#国产动漫$guochandonghua#欧美动漫$oumeidongman#韩国动漫$hanguodongman#其他动漫$qitadongman空大陆$yanchanghui#港台$MV#日韩$KTV#欧美$bangjiangli"
