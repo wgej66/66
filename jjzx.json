@@ -1172,7 +1172,7 @@
       "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
       "ext": {
         "分类url": "https://www.isantai.com/stshow/{cateId}--------{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#更新$new"
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$dongman#短剧$weiduanju#午夜$juqingpian"
       }
     },
     {
