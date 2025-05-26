@@ -1,7 +1,7 @@
  var rule = {
   title:'秘密电影[V2]', 
-  desc:'https://dminet.shop/',
-  host:'https://www.7j2hxv0byt.wiki/',
+  desc:'https://dme2r5.com/',
+  host:'https://www.dmbd7.wiki/',
   homeUrl:'/api.php/app/index_video',
   url:'/api.php/app/video?tid=fyclassfyfilter&limit=20&pg=fypage',
   filter_url:'&class={{fl.class}}&area={{fl.area}}&year={{fl.year}}',
