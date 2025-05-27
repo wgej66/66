@@ -545,6 +545,12 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
+                 "主页url": "https://70.csb5.top/list/10.html",
+        "播放数组":"mod play-list&&</ul",
+        "跳转播放链接": "var player_aaaa*url\":\"&&\"",
+        "链接": "href=\"&&\"",
+       "标题": "alt=\"&&\"",
+       "直接播放":"1",
                 "分类url": "https://70.csb5.top/list/{cateId}-{catePg}.html;;z",
                 "分类": "国产$3#中文$4#日韩$5#欧美$6#欧美无$14#日$10#无码$33#丝袜$31"
             },
