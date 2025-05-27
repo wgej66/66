@@ -440,7 +440,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "分类url": "http://www.ths864.com/wbs/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类url": "http://www.ths864.com/wbs/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
                 "分类": "电影$WbMovie#电视剧$WbTv#动漫$WbCartoon#综艺$WbVariety#理论片$Sex"
             },
             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar"
