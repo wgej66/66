@@ -42,6 +42,23 @@
       }
 },
 {
+      "key": "奇异",
+      "name": "奇异",
+      "type": 0,
+      "api": "https://iqiyizyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://www.iqiyizyjx.com/?url=",
+      "categories": [
+        "电影",
+        "连续剧",
+        "综艺",
+        "伦理片",
+        "动漫"
+      ]
+    },
+
+{
             "key": "疯猫影视",
             "name": "疯猫AV影视(XBPQ)",
             "type": 3,
