@@ -50,7 +50,7 @@
             "ext": {
                 "主页url": "https://netflav5.com/",
                 "直接播放": "1",
-                "分类url": "https://netflav5.com/{cateId}?page={catePg}",
+                "分类url": "https://netflav5.com/{cateId}?page={catePg}/;;z",
                 "分类": "日本有碼$censored#日本無碼$uncensored#中文字幕$chinese-sub"
             }
         },
