@@ -41,19 +41,6 @@
         "分类": "欧美剧$22#海外剧$23#日韩剧$24#卡通剧$25#福利剧$49"
       }
 },
- {
-            "key": "JAVnf",
-            "name": "🔞JAVnf",
-            "type": 3,
-            "api": "csp_XBPQ",
-           "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "ext": {
-                "主页url": "https://netflav5.com/",
-                "直接播放": "1",
-                "分类url": "https://netflav5.com/{cateId}?page={catePg}/;;z",
-                "分类": "日本有碼$censored#日本無碼$uncensored#中文字幕$chinese-sub"
-            }
-        },
 {
       "key": "奇异",
       "name": "奇异",
