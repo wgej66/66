@@ -77,6 +77,25 @@
       "changeable": 1,
       "playurl": "json:https://xbww888.com/?url="
     },
+    {
+      "key": "kuai",
+      "name": "快播",
+      "type": 0,
+      "api": "https://gayapi.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "changeable": 1,
+      "playurl": "json:https://gayzyjiexi.com/play/?url="
+    },
+    {
+			"key": "hipy_js_4K",
+			"name": "🔞4K┃视频",
+		      "type": 3,
+      "api": "./JS/4K.py",
+	  "jar": "./bhtv.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+	}, 
 {
             "key": "疯猫影视",
             "name": "疯猫AV影视(XBPQ)",
